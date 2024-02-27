@@ -1,0 +1,5091 @@
+fileFormatVersion: 2
+guid: 323b2e4944f510140908514d3d3a3e2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1887296953273722875
+    second: Serene_Village_32x32_0
+  - first:
+      213: -9018210316208604611
+    second: Serene_Village_32x32_1
+  - first:
+      213: 8177557431022281799
+    second: Serene_Village_32x32_2
+  - first:
+      213: 4135270425415381699
+    second: Serene_Village_32x32_3
+  - first:
+      213: -1331033911723193706
+    second: Serene_Village_32x32_4
+  - first:
+      213: -5461343813459559272
+    second: Serene_Village_32x32_5
+  - first:
+      213: -3292578682154924160
+    second: Serene_Village_32x32_6
+  - first:
+      213: -2195255923331729540
+    second: Serene_Village_32x32_7
+  - first:
+      213: 5118019319854541927
+    second: Serene_Village_32x32_8
+  - first:
+      213: -934181214260411759
+    second: Serene_Village_32x32_9
+  - first:
+      213: -5461476021006767302
+    second: Serene_Village_32x32_10
+  - first:
+      213: -3655710067456796049
+    second: Serene_Village_32x32_11
+  - first:
+      213: 2304317043263795022
+    second: Serene_Village_32x32_12
+  - first:
+      213: 680756779746351324
+    second: Serene_Village_32x32_13
+  - first:
+      213: 1602576935508818198
+    second: Serene_Village_32x32_14
+  - first:
+      213: -8913996490154885689
+    second: Serene_Village_32x32_15
+  - first:
+      213: 1530235046898311340
+    second: Serene_Village_32x32_16
+  - first:
+      213: -5286353034860987685
+    second: Serene_Village_32x32_17
+  - first:
+      213: 2853536444326512535
+    second: Serene_Village_32x32_18
+  - first:
+      213: 2895605302118455686
+    second: Serene_Village_32x32_19
+  - first:
+      213: -5349552659254768610
+    second: Serene_Village_32x32_20
+  - first:
+      213: 518475726884962575
+    second: Serene_Village_32x32_21
+  - first:
+      213: 3890999744492554673
+    second: Serene_Village_32x32_22
+  - first:
+      213: 1663307897551160639
+    second: Serene_Village_32x32_23
+  - first:
+      213: 1818808363684356032
+    second: Serene_Village_32x32_24
+  - first:
+      213: 1935714669904065112
+    second: Serene_Village_32x32_25
+  - first:
+      213: 7316928542333714073
+    second: Serene_Village_32x32_26
+  - first:
+      213: 7985855791585980086
+    second: Serene_Village_32x32_27
+  - first:
+      213: -1714776363265096148
+    second: Serene_Village_32x32_28
+  - first:
+      213: 6944773014269381109
+    second: Serene_Village_32x32_29
+  - first:
+      213: -3839186930903276876
+    second: Serene_Village_32x32_30
+  - first:
+      213: -5706453663058536476
+    second: Serene_Village_32x32_31
+  - first:
+      213: 8294247015527227053
+    second: Serene_Village_32x32_32
+  - first:
+      213: 7774057906594764420
+    second: Serene_Village_32x32_33
+  - first:
+      213: 3380029011119748288
+    second: Serene_Village_32x32_34
+  - first:
+      213: -4927420942233805785
+    second: Serene_Village_32x32_35
+  - first:
+      213: -6428878648020239277
+    second: Serene_Village_32x32_36
+  - first:
+      213: 8205963933374202428
+    second: Serene_Village_32x32_37
+  - first:
+      213: -2171326663826904057
+    second: Serene_Village_32x32_38
+  - first:
+      213: 3286245681145944627
+    second: Serene_Village_32x32_39
+  - first:
+      213: 1912012708535093458
+    second: Serene_Village_32x32_40
+  - first:
+      213: -8758663935491891086
+    second: Serene_Village_32x32_41
+  - first:
+      213: 601369903289956814
+    second: Serene_Village_32x32_42
+  - first:
+      213: 132437447046142875
+    second: Serene_Village_32x32_43
+  - first:
+      213: -1916247758364154465
+    second: Serene_Village_32x32_44
+  - first:
+      213: -7632471685030573856
+    second: Serene_Village_32x32_45
+  - first:
+      213: -1519367328789164768
+    second: Serene_Village_32x32_46
+  - first:
+      213: -6794806851676479724
+    second: Serene_Village_32x32_47
+  - first:
+      213: -2662274277408524719
+    second: Serene_Village_32x32_48
+  - first:
+      213: 6293794300985546709
+    second: Serene_Village_32x32_49
+  - first:
+      213: -4587025624493877546
+    second: Serene_Village_32x32_50
+  - first:
+      213: -4409277718138339860
+    second: Serene_Village_32x32_51
+  - first:
+      213: -8547300862201664206
+    second: Serene_Village_32x32_52
+  - first:
+      213: 2794053613256535989
+    second: Serene_Village_32x32_53
+  - first:
+      213: -4199564812591351374
+    second: Serene_Village_32x32_54
+  - first:
+      213: 7477738604021839614
+    second: Serene_Village_32x32_55
+  - first:
+      213: -2833713677049937540
+    second: Serene_Village_32x32_56
+  - first:
+      213: 4357488985135431162
+    second: Serene_Village_32x32_57
+  - first:
+      213: -8858510292594436396
+    second: Serene_Village_32x32_58
+  - first:
+      213: -5742327737042770033
+    second: Serene_Village_32x32_59
+  - first:
+      213: -6419665808670391243
+    second: Serene_Village_32x32_60
+  - first:
+      213: -3119544783610360606
+    second: Serene_Village_32x32_61
+  - first:
+      213: -8853719879190065173
+    second: Serene_Village_32x32_62
+  - first:
+      213: -2927364726715382209
+    second: Serene_Village_32x32_63
+  - first:
+      213: -4333112351563938234
+    second: Serene_Village_32x32_64
+  - first:
+      213: -1160923582980748885
+    second: Serene_Village_32x32_65
+  - first:
+      213: -6362476789132463868
+    second: Serene_Village_32x32_66
+  - first:
+      213: 6487945723073865538
+    second: Serene_Village_32x32_67
+  - first:
+      213: -3601677965147895145
+    second: Serene_Village_32x32_68
+  - first:
+      213: 8605969737636927070
+    second: Serene_Village_32x32_69
+  - first:
+      213: 8891271013926372999
+    second: Serene_Village_32x32_70
+  - first:
+      213: 7210671726867595088
+    second: Serene_Village_32x32_71
+  - first:
+      213: 5039517539030907742
+    second: Serene_Village_32x32_72
+  - first:
+      213: 8774986030458873026
+    second: Serene_Village_32x32_73
+  - first:
+      213: 6387879432521938657
+    second: Serene_Village_32x32_74
+  - first:
+      213: -1605130688061046426
+    second: Serene_Village_32x32_75
+  - first:
+      213: 1479232274934546826
+    second: Serene_Village_32x32_76
+  - first:
+      213: -770621703750635445
+    second: Serene_Village_32x32_77
+  - first:
+      213: -4844563382523832829
+    second: Serene_Village_32x32_78
+  - first:
+      213: 8307425501053554667
+    second: Serene_Village_32x32_79
+  - first:
+      213: 5288285753757674678
+    second: Serene_Village_32x32_80
+  - first:
+      213: -525158341614336526
+    second: Serene_Village_32x32_81
+  - first:
+      213: -7777505640155115631
+    second: Serene_Village_32x32_82
+  - first:
+      213: 8457140857020521576
+    second: Serene_Village_32x32_83
+  - first:
+      213: 4878364952696005806
+    second: Serene_Village_32x32_84
+  - first:
+      213: -5190380457600034302
+    second: Serene_Village_32x32_85
+  - first:
+      213: 3483325137677243134
+    second: Serene_Village_32x32_86
+  - first:
+      213: 624804297936336478
+    second: Serene_Village_32x32_87
+  - first:
+      213: 4869298006847334477
+    second: Serene_Village_32x32_88
+  - first:
+      213: -8473189508319547610
+    second: Serene_Village_32x32_89
+  - first:
+      213: 3706440349003063417
+    second: Serene_Village_32x32_90
+  - first:
+      213: 8472394263179673689
+    second: Serene_Village_32x32_91
+  - first:
+      213: -7718259382466803366
+    second: Serene_Village_32x32_92
+  - first:
+      213: 3072970988793693733
+    second: Serene_Village_32x32_93
+  - first:
+      213: -1429652519327304988
+    second: Serene_Village_32x32_94
+  - first:
+      213: -8735237760818426339
+    second: Serene_Village_32x32_95
+  - first:
+      213: -5401780155434975433
+    second: Serene_Village_32x32_96
+  - first:
+      213: -1943369088912669278
+    second: Serene_Village_32x32_97
+  - first:
+      213: -1249882853207884907
+    second: Serene_Village_32x32_98
+  - first:
+      213: 6713862382080730145
+    second: Serene_Village_32x32_99
+  - first:
+      213: 4394522719190787438
+    second: Serene_Village_32x32_100
+  - first:
+      213: 3961026579277773459
+    second: Serene_Village_32x32_101
+  - first:
+      213: -6752816804972569807
+    second: Serene_Village_32x32_102
+  - first:
+      213: 1745707535163204607
+    second: Serene_Village_32x32_103
+  - first:
+      213: 2654298007999788573
+    second: Serene_Village_32x32_104
+  - first:
+      213: 1391287730865786256
+    second: Serene_Village_32x32_105
+  - first:
+      213: 8500904895821351341
+    second: Serene_Village_32x32_106
+  - first:
+      213: -4496337123265600363
+    second: Serene_Village_32x32_107
+  - first:
+      213: -5299397316987792147
+    second: Serene_Village_32x32_108
+  - first:
+      213: 7857524875476689391
+    second: Serene_Village_32x32_109
+  - first:
+      213: 4120096920781882600
+    second: Serene_Village_32x32_110
+  - first:
+      213: -8615113642359531136
+    second: Serene_Village_32x32_111
+  - first:
+      213: -7483145721262850332
+    second: Serene_Village_32x32_112
+  - first:
+      213: 563981654214118856
+    second: Serene_Village_32x32_113
+  - first:
+      213: 5711236793095011414
+    second: Serene_Village_32x32_114
+  - first:
+      213: -6473375897304937293
+    second: Serene_Village_32x32_115
+  - first:
+      213: -1971819839723235338
+    second: Serene_Village_32x32_116
+  - first:
+      213: 6540912775753535515
+    second: Serene_Village_32x32_117
+  - first:
+      213: 6030121164877476330
+    second: Serene_Village_32x32_118
+  - first:
+      213: 780446208516551836
+    second: Serene_Village_32x32_119
+  - first:
+      213: -2644481342052123271
+    second: Serene_Village_32x32_120
+  - first:
+      213: -3579468816582476662
+    second: Serene_Village_32x32_121
+  - first:
+      213: 7727669402279700862
+    second: Serene_Village_32x32_122
+  - first:
+      213: 3095575350311748299
+    second: Serene_Village_32x32_123
+  - first:
+      213: -3522275860890524034
+    second: Serene_Village_32x32_124
+  - first:
+      213: -1297985475837255925
+    second: Serene_Village_32x32_125
+  - first:
+      213: -7106504513790821653
+    second: Serene_Village_32x32_126
+  - first:
+      213: -5901412546154623409
+    second: Serene_Village_32x32_127
+  - first:
+      213: -3947631092228649941
+    second: Serene_Village_32x32_128
+  - first:
+      213: -5038488666032679563
+    second: Serene_Village_32x32_129
+  - first:
+      213: -7397974811109300335
+    second: Serene_Village_32x32_130
+  - first:
+      213: -119327708986693106
+    second: Serene_Village_32x32_131
+  - first:
+      213: 5040538805874165726
+    second: Serene_Village_32x32_132
+  - first:
+      213: -4611309488288197235
+    second: Serene_Village_32x32_133
+  - first:
+      213: 5940593945973815435
+    second: Serene_Village_32x32_134
+  - first:
+      213: -1581707693665547667
+    second: Serene_Village_32x32_135
+  - first:
+      213: -8221906608948325254
+    second: Serene_Village_32x32_136
+  - first:
+      213: -5736411981571982180
+    second: Serene_Village_32x32_137
+  - first:
+      213: -1557096459825760008
+    second: Serene_Village_32x32_138
+  - first:
+      213: 8375373695026635976
+    second: Serene_Village_32x32_139
+  - first:
+      213: 7424496646687471001
+    second: Serene_Village_32x32_140
+  - first:
+      213: -9112313431918874331
+    second: Serene_Village_32x32_141
+  - first:
+      213: 386694478593197062
+    second: Serene_Village_32x32_142
+  - first:
+      213: 3039346496064088552
+    second: Serene_Village_32x32_143
+  - first:
+      213: -1603766767438629159
+    second: Serene_Village_32x32_144
+  - first:
+      213: 2364596703285443122
+    second: Serene_Village_32x32_145
+  - first:
+      213: 836733527728062626
+    second: Serene_Village_32x32_146
+  - first:
+      213: 3478065300226960725
+    second: Serene_Village_32x32_147
+  - first:
+      213: 4909849047917016431
+    second: Serene_Village_32x32_148
+  - first:
+      213: -1496676491673921827
+    second: Serene_Village_32x32_149
+  - first:
+      213: 1362609537688936545
+    second: Serene_Village_32x32_150
+  - first:
+      213: -18878240703679539
+    second: Serene_Village_32x32_151
+  - first:
+      213: -3012650031424124016
+    second: Serene_Village_32x32_152
+  - first:
+      213: 9122605715551451504
+    second: Serene_Village_32x32_153
+  - first:
+      213: -4775922183782546627
+    second: Serene_Village_32x32_154
+  - first:
+      213: 4096827201296297513
+    second: Serene_Village_32x32_155
+  - first:
+      213: -388226024012024047
+    second: Serene_Village_32x32_156
+  - first:
+      213: -4447163604481178817
+    second: Serene_Village_32x32_157
+  - first:
+      213: -5085138543920026510
+    second: Serene_Village_32x32_158
+  - first:
+      213: -9106372124405433109
+    second: Serene_Village_32x32_159
+  - first:
+      213: -1793405473215526984
+    second: Serene_Village_32x32_160
+  - first:
+      213: -3417968274410912033
+    second: Serene_Village_32x32_161
+  - first:
+      213: -7107481474759663413
+    second: Serene_Village_32x32_162
+  - first:
+      213: -2129417635631182095
+    second: Serene_Village_32x32_163
+  - first:
+      213: 7555448477938125239
+    second: Serene_Village_32x32_164
+  - first:
+      213: -8955070925662754367
+    second: Serene_Village_32x32_165
+  - first:
+      213: 771604022255434439
+    second: Serene_Village_32x32_166
+  - first:
+      213: 7575552093551415647
+    second: Serene_Village_32x32_167
+  - first:
+      213: 1356132925303500561
+    second: Serene_Village_32x32_168
+  - first:
+      213: -1492031217972723321
+    second: Serene_Village_32x32_169
+  - first:
+      213: -979279572778129523
+    second: Serene_Village_32x32_170
+  - first:
+      213: 7204196848369830098
+    second: Serene_Village_32x32_171
+  - first:
+      213: -5979248595590773401
+    second: Serene_Village_32x32_172
+  - first:
+      213: 1072467076116432744
+    second: Serene_Village_32x32_173
+  - first:
+      213: 8332082357663406976
+    second: Serene_Village_32x32_174
+  - first:
+      213: 8468743766593265062
+    second: Serene_Village_32x32_175
+  - first:
+      213: 6352854896118215738
+    second: Serene_Village_32x32_176
+  - first:
+      213: -8761674328961644703
+    second: Serene_Village_32x32_177
+  - first:
+      213: -64809623808008704
+    second: Serene_Village_32x32_178
+  - first:
+      213: -1385516600921732855
+    second: Serene_Village_32x32_179
+  - first:
+      213: -8671756696726218127
+    second: Serene_Village_32x32_180
+  - first:
+      213: 5455183613887642373
+    second: Serene_Village_32x32_181
+  - first:
+      213: 8467857049358897159
+    second: Serene_Village_32x32_182
+  - first:
+      213: -3529585289837869504
+    second: Serene_Village_32x32_183
+  - first:
+      213: 1905511070660547100
+    second: Serene_Village_32x32_184
+  - first:
+      213: -8204419057468905085
+    second: Serene_Village_32x32_185
+  - first:
+      213: -6260758873882200855
+    second: Serene_Village_32x32_186
+  - first:
+      213: -2406733681155662486
+    second: Serene_Village_32x32_187
+  - first:
+      213: 1842508410526420772
+    second: Serene_Village_32x32_188
+  - first:
+      213: -746643454996907538
+    second: Serene_Village_32x32_189
+  - first:
+      213: -8058865789807839153
+    second: Serene_Village_32x32_190
+  - first:
+      213: -333035460131246413
+    second: Serene_Village_32x32_191
+  - first:
+      213: 7650169374086540923
+    second: Serene_Village_32x32_192
+  - first:
+      213: -7855822604226905426
+    second: Serene_Village_32x32_193
+  - first:
+      213: -192836681011846873
+    second: Serene_Village_32x32_194
+  - first:
+      213: 1314220566231938845
+    second: Serene_Village_32x32_195
+  - first:
+      213: -3197682150256675164
+    second: Serene_Village_32x32_196
+  - first:
+      213: -8970233557881233376
+    second: Serene_Village_32x32_197
+  - first:
+      213: 3831502351599231273
+    second: Serene_Village_32x32_198
+  - first:
+      213: 1893880607772658807
+    second: Serene_Village_32x32_199
+  - first:
+      213: 5173331748512021613
+    second: Serene_Village_32x32_200
+  - first:
+      213: 4663166026900125060
+    second: Serene_Village_32x32_201
+  - first:
+      213: -8983154173848846402
+    second: Serene_Village_32x32_202
+  - first:
+      213: 4009242249786010966
+    second: Serene_Village_32x32_203
+  - first:
+      213: -3937291159884874333
+    second: Serene_Village_32x32_204
+  - first:
+      213: 3840919939878064412
+    second: Serene_Village_32x32_205
+  - first:
+      213: 1621685399339616744
+    second: Serene_Village_32x32_206
+  - first:
+      213: -7074081055228907952
+    second: Serene_Village_32x32_207
+  - first:
+      213: 2934425850086722166
+    second: Serene_Village_32x32_208
+  - first:
+      213: -2776740280730800530
+    second: Serene_Village_32x32_209
+  - first:
+      213: 6730089272718570061
+    second: Serene_Village_32x32_210
+  - first:
+      213: -9060715915012870758
+    second: Serene_Village_32x32_211
+  - first:
+      213: 2858251202011485478
+    second: Serene_Village_32x32_212
+  - first:
+      213: -8519749822552392135
+    second: Serene_Village_32x32_213
+  - first:
+      213: 6698545689602190188
+    second: Serene_Village_32x32_214
+  - first:
+      213: 5042658710333294029
+    second: Serene_Village_32x32_215
+  - first:
+      213: 1109119321397127114
+    second: Serene_Village_32x32_216
+  - first:
+      213: 1369202697840083235
+    second: Serene_Village_32x32_217
+  - first:
+      213: -5971653118350862621
+    second: Serene_Village_32x32_218
+  - first:
+      213: 442798111894085582
+    second: Serene_Village_32x32_219
+  - first:
+      213: -7228704900142857156
+    second: Serene_Village_32x32_220
+  - first:
+      213: -809850749271735175
+    second: Serene_Village_32x32_221
+  - first:
+      213: -1004512708596621507
+    second: Serene_Village_32x32_222
+  - first:
+      213: 6616744294298830283
+    second: Serene_Village_32x32_223
+  - first:
+      213: -6264097176342716092
+    second: Serene_Village_32x32_224
+  - first:
+      213: -2141688030441338796
+    second: Serene_Village_32x32_225
+  - first:
+      213: -3509037252907343490
+    second: Serene_Village_32x32_226
+  - first:
+      213: 3754547801628075876
+    second: Serene_Village_32x32_227
+  - first:
+      213: -3759657016259083198
+    second: Serene_Village_32x32_228
+  - first:
+      213: 2727792201012671627
+    second: Serene_Village_32x32_229
+  - first:
+      213: 8459224034516709164
+    second: Serene_Village_32x32_230
+  - first:
+      213: 2815412450698565226
+    second: Serene_Village_32x32_231
+  - first:
+      213: -833007340976774040
+    second: Serene_Village_32x32_232
+  - first:
+      213: -7986207243708743185
+    second: Serene_Village_32x32_233
+  - first:
+      213: 9123397771608955177
+    second: Serene_Village_32x32_234
+  - first:
+      213: -8472184044624162852
+    second: Serene_Village_32x32_235
+  - first:
+      213: 6209161172660556939
+    second: Serene_Village_32x32_236
+  - first:
+      213: 4806861603465311117
+    second: Serene_Village_32x32_237
+  - first:
+      213: 8674728045766942637
+    second: Serene_Village_32x32_238
+  - first:
+      213: 3009184048713361331
+    second: Serene_Village_32x32_239
+  - first:
+      213: -3148338642851928111
+    second: Serene_Village_32x32_240
+  - first:
+      213: 4932742262590645257
+    second: Serene_Village_32x32_241
+  - first:
+      213: -2324583475007522842
+    second: Serene_Village_32x32_242
+  - first:
+      213: 3277355711617066385
+    second: Serene_Village_32x32_243
+  - first:
+      213: -5138513066673396493
+    second: Serene_Village_32x32_244
+  - first:
+      213: 5810460313975086966
+    second: Serene_Village_32x32_245
+  - first:
+      213: -3489698373718102839
+    second: Serene_Village_32x32_246
+  - first:
+      213: 9212152288002847524
+    second: Serene_Village_32x32_247
+  - first:
+      213: 2521998651348302830
+    second: Serene_Village_32x32_248
+  - first:
+      213: -1048222094054872402
+    second: Serene_Village_32x32_249
+  - first:
+      213: -3669275459152222268
+    second: Serene_Village_32x32_250
+  - first:
+      213: 779774077064278371
+    second: Serene_Village_32x32_251
+  - first:
+      213: -5103725836538105833
+    second: Serene_Village_32x32_252
+  - first:
+      213: 5804574974527164451
+    second: Serene_Village_32x32_253
+  - first:
+      213: 3938068282426375338
+    second: Serene_Village_32x32_254
+  - first:
+      213: -6498057581830085404
+    second: Serene_Village_32x32_255
+  - first:
+      213: -2161451185523232882
+    second: Serene_Village_32x32_256
+  - first:
+      213: -7794260733385602981
+    second: Serene_Village_32x32_257
+  - first:
+      213: -5701417233973687132
+    second: Serene_Village_32x32_258
+  - first:
+      213: 1713638996662180820
+    second: Serene_Village_32x32_259
+  - first:
+      213: 3146165099377810222
+    second: Serene_Village_32x32_260
+  - first:
+      213: 4106576175837856680
+    second: Serene_Village_32x32_261
+  - first:
+      213: -3299742240854581362
+    second: Serene_Village_32x32_262
+  - first:
+      213: -1012813960789344668
+    second: Serene_Village_32x32_263
+  - first:
+      213: 6083569984070300316
+    second: Serene_Village_32x32_264
+  - first:
+      213: 6474325648491426468
+    second: Serene_Village_32x32_265
+  - first:
+      213: 6414624218011581020
+    second: Serene_Village_32x32_266
+  - first:
+      213: 3090790213622430650
+    second: Serene_Village_32x32_267
+  - first:
+      213: -2567524645515909558
+    second: Serene_Village_32x32_268
+  - first:
+      213: -4297633907842539336
+    second: Serene_Village_32x32_269
+  - first:
+      213: 3481676688052107844
+    second: Serene_Village_32x32_270
+  - first:
+      213: 2414460683485138285
+    second: Serene_Village_32x32_271
+  - first:
+      213: 1628301207701053345
+    second: Serene_Village_32x32_272
+  - first:
+      213: 4606772763066000849
+    second: Serene_Village_32x32_273
+  - first:
+      213: 4935790943534610724
+    second: Serene_Village_32x32_274
+  - first:
+      213: -4307672565319052876
+    second: Serene_Village_32x32_275
+  - first:
+      213: -1892571145883304545
+    second: Serene_Village_32x32_276
+  - first:
+      213: 7505422489577084332
+    second: Serene_Village_32x32_277
+  - first:
+      213: 525161333133155689
+    second: Serene_Village_32x32_278
+  - first:
+      213: -4682935531680601456
+    second: Serene_Village_32x32_279
+  - first:
+      213: 888833041704017275
+    second: Serene_Village_32x32_280
+  - first:
+      213: -4104083294077362788
+    second: Serene_Village_32x32_281
+  - first:
+      213: 2098499038402553951
+    second: Serene_Village_32x32_282
+  - first:
+      213: 8525893987015909304
+    second: Serene_Village_32x32_283
+  - first:
+      213: -4878900726927384334
+    second: Serene_Village_32x32_284
+  - first:
+      213: 2627309358482232839
+    second: Serene_Village_32x32_285
+  - first:
+      213: -7785633401577661768
+    second: Serene_Village_32x32_286
+  - first:
+      213: -4886725494049160975
+    second: Serene_Village_32x32_287
+  - first:
+      213: 200007066737010267
+    second: Serene_Village_32x32_288
+  - first:
+      213: -6891159755471783304
+    second: Serene_Village_32x32_289
+  - first:
+      213: -5037604100812341207
+    second: Serene_Village_32x32_290
+  - first:
+      213: -1252609444924745357
+    second: Serene_Village_32x32_291
+  - first:
+      213: -3925175902536894811
+    second: Serene_Village_32x32_292
+  - first:
+      213: 8694675470272413586
+    second: Serene_Village_32x32_293
+  - first:
+      213: -7109107633531599032
+    second: Serene_Village_32x32_294
+  - first:
+      213: -6717152736730472433
+    second: Serene_Village_32x32_295
+  - first:
+      213: -8983639609865394972
+    second: Serene_Village_32x32_296
+  - first:
+      213: 4776826257719041971
+    second: Serene_Village_32x32_297
+  - first:
+      213: -1165041646017419210
+    second: Serene_Village_32x32_298
+  - first:
+      213: 4869659791995131606
+    second: Serene_Village_32x32_299
+  - first:
+      213: -5169734175901333581
+    second: Serene_Village_32x32_300
+  - first:
+      213: -1283658365518501810
+    second: Serene_Village_32x32_301
+  - first:
+      213: -8059362018204427996
+    second: Serene_Village_32x32_302
+  - first:
+      213: 3907791299937408676
+    second: Serene_Village_32x32_303
+  - first:
+      213: 3949629821563957957
+    second: Serene_Village_32x32_304
+  - first:
+      213: -7773387252734006329
+    second: Serene_Village_32x32_305
+  - first:
+      213: -8197292504045154232
+    second: Serene_Village_32x32_306
+  - first:
+      213: 884438710304360139
+    second: Serene_Village_32x32_307
+  - first:
+      213: -7045447341228467818
+    second: Serene_Village_32x32_308
+  - first:
+      213: 5301515525746635845
+    second: Serene_Village_32x32_309
+  - first:
+      213: 1979031405523228636
+    second: Serene_Village_32x32_310
+  - first:
+      213: -986749761004065035
+    second: Serene_Village_32x32_311
+  - first:
+      213: 1697274627755738390
+    second: Serene_Village_32x32_312
+  - first:
+      213: 8680749615846174694
+    second: Serene_Village_32x32_313
+  - first:
+      213: -288164963917031288
+    second: Serene_Village_32x32_314
+  - first:
+      213: -2505693549928534990
+    second: Serene_Village_32x32_315
+  - first:
+      213: 2555397145819448761
+    second: Serene_Village_32x32_316
+  - first:
+      213: 3683364317264097541
+    second: Serene_Village_32x32_317
+  - first:
+      213: -4261427344030165362
+    second: Serene_Village_32x32_318
+  - first:
+      213: -3245459448755003296
+    second: Serene_Village_32x32_319
+  - first:
+      213: -233936211950017030
+    second: Serene_Village_32x32_320
+  - first:
+      213: -6681445458511635335
+    second: Serene_Village_32x32_321
+  - first:
+      213: -4716677857596049052
+    second: Serene_Village_32x32_322
+  - first:
+      213: -7844372008430298576
+    second: Serene_Village_32x32_323
+  - first:
+      213: -7074941132717081959
+    second: Serene_Village_32x32_324
+  - first:
+      213: -2869290768053992758
+    second: Serene_Village_32x32_325
+  - first:
+      213: -7090587695456476470
+    second: Serene_Village_32x32_326
+  - first:
+      213: 4000591920990013114
+    second: Serene_Village_32x32_327
+  - first:
+      213: -4482940945807027259
+    second: Serene_Village_32x32_328
+  - first:
+      213: 8321159661632490487
+    second: Serene_Village_32x32_329
+  - first:
+      213: 4313135106644204818
+    second: Serene_Village_32x32_330
+  - first:
+      213: -1866226348552623099
+    second: Serene_Village_32x32_331
+  - first:
+      213: -8998768328245664547
+    second: Serene_Village_32x32_332
+  - first:
+      213: -8113075189754930690
+    second: Serene_Village_32x32_333
+  - first:
+      213: -6277991753865813299
+    second: Serene_Village_32x32_334
+  - first:
+      213: 1042027540562192974
+    second: Serene_Village_32x32_335
+  - first:
+      213: 968496142365000584
+    second: Serene_Village_32x32_336
+  - first:
+      213: 3613898675437456381
+    second: Serene_Village_32x32_337
+  - first:
+      213: -5090279510610663553
+    second: Serene_Village_32x32_338
+  - first:
+      213: 2420524780332128010
+    second: Serene_Village_32x32_339
+  - first:
+      213: -5198887938575479314
+    second: Serene_Village_32x32_340
+  - first:
+      213: -4358280935945818482
+    second: Serene_Village_32x32_341
+  - first:
+      213: 1815283751394757456
+    second: Serene_Village_32x32_342
+  - first:
+      213: 3050156474373534661
+    second: Serene_Village_32x32_343
+  - first:
+      213: -320135887607840186
+    second: Serene_Village_32x32_344
+  - first:
+      213: 9155252374582053896
+    second: Serene_Village_32x32_345
+  - first:
+      213: -1243787715592377084
+    second: Serene_Village_32x32_346
+  - first:
+      213: 5025379457395551748
+    second: Serene_Village_32x32_347
+  - first:
+      213: -8147590347319520880
+    second: Serene_Village_32x32_348
+  - first:
+      213: -1677576954692106962
+    second: Serene_Village_32x32_349
+  - first:
+      213: 7834062650606876228
+    second: Serene_Village_32x32_350
+  - first:
+      213: 6240335968430485135
+    second: Serene_Village_32x32_351
+  - first:
+      213: 7181578434382839782
+    second: Serene_Village_32x32_352
+  - first:
+      213: -3080694223978679644
+    second: Serene_Village_32x32_353
+  - first:
+      213: 2835878698664994736
+    second: Serene_Village_32x32_354
+  - first:
+      213: -1581710689710152628
+    second: Serene_Village_32x32_355
+  - first:
+      213: -4159909140235105651
+    second: Serene_Village_32x32_356
+  - first:
+      213: 717448521907279381
+    second: Serene_Village_32x32_357
+  - first:
+      213: 628576820093954484
+    second: Serene_Village_32x32_358
+  - first:
+      213: 4083500506779774364
+    second: Serene_Village_32x32_359
+  - first:
+      213: -9022588117335277125
+    second: Serene_Village_32x32_360
+  - first:
+      213: -5141766885348393028
+    second: Serene_Village_32x32_361
+  - first:
+      213: -3674689992122599834
+    second: Serene_Village_32x32_362
+  - first:
+      213: -4017155236050901029
+    second: Serene_Village_32x32_363
+  - first:
+      213: 6870492426268250816
+    second: Serene_Village_32x32_364
+  - first:
+      213: -5851200052064014342
+    second: Serene_Village_32x32_365
+  - first:
+      213: 7133369180236709759
+    second: Serene_Village_32x32_366
+  - first:
+      213: -2141125300406560863
+    second: Serene_Village_32x32_367
+  - first:
+      213: 5601243554561878762
+    second: Serene_Village_32x32_368
+  - first:
+      213: 397257016483053770
+    second: Serene_Village_32x32_369
+  - first:
+      213: -136612867184993087
+    second: Serene_Village_32x32_370
+  - first:
+      213: -256819164014885162
+    second: Serene_Village_32x32_371
+  - first:
+      213: 3741229002239732592
+    second: Serene_Village_32x32_372
+  - first:
+      213: -7790736941954359789
+    second: Serene_Village_32x32_373
+  - first:
+      213: 7335811141143185211
+    second: Serene_Village_32x32_374
+  - first:
+      213: 7599948096913129106
+    second: Serene_Village_32x32_375
+  - first:
+      213: -3821504785561137780
+    second: Serene_Village_32x32_376
+  - first:
+      213: 8535543017821217633
+    second: Serene_Village_32x32_377
+  - first:
+      213: -5404702234077184697
+    second: Serene_Village_32x32_378
+  - first:
+      213: -1650069913935484925
+    second: Serene_Village_32x32_379
+  - first:
+      213: 2330343642348064323
+    second: Serene_Village_32x32_380
+  - first:
+      213: -3740559852462243769
+    second: Serene_Village_32x32_381
+  - first:
+      213: -7638427243614338036
+    second: Serene_Village_32x32_382
+  - first:
+      213: -6976242904302873340
+    second: Serene_Village_32x32_383
+  - first:
+      213: 3108732489636110139
+    second: Serene_Village_32x32_384
+  - first:
+      213: -8332709501156631048
+    second: Serene_Village_32x32_385
+  - first:
+      213: 1023664576258967073
+    second: Serene_Village_32x32_386
+  - first:
+      213: -96582851688124002
+    second: Serene_Village_32x32_387
+  - first:
+      213: 6903693047597416744
+    second: Serene_Village_32x32_388
+  - first:
+      213: 5157539516140813658
+    second: Serene_Village_32x32_389
+  - first:
+      213: 304439748261557658
+    second: Serene_Village_32x32_390
+  - first:
+      213: 8692306001224213316
+    second: Serene_Village_32x32_391
+  - first:
+      213: -4988603555587105238
+    second: Serene_Village_32x32_392
+  - first:
+      213: 7696265257596880855
+    second: Serene_Village_32x32_393
+  - first:
+      213: -1909579534123581341
+    second: Serene_Village_32x32_394
+  - first:
+      213: 1561787420474365914
+    second: Serene_Village_32x32_395
+  - first:
+      213: 8520060158079815149
+    second: Serene_Village_32x32_396
+  - first:
+      213: 3505575908927013912
+    second: Serene_Village_32x32_397
+  - first:
+      213: -4845855839474372810
+    second: Serene_Village_32x32_398
+  - first:
+      213: -5291932239709693069
+    second: Serene_Village_32x32_399
+  - first:
+      213: 5847471166897176253
+    second: Serene_Village_32x32_400
+  - first:
+      213: -2982411440005361576
+    second: Serene_Village_32x32_401
+  - first:
+      213: 4731363271686071262
+    second: Serene_Village_32x32_402
+  - first:
+      213: -233565688472663781
+    second: Serene_Village_32x32_403
+  - first:
+      213: 2199588931373809477
+    second: Serene_Village_32x32_404
+  - first:
+      213: 8972757567763070702
+    second: Serene_Village_32x32_405
+  - first:
+      213: 2300816176267795446
+    second: Serene_Village_32x32_406
+  - first:
+      213: -5452157726940928883
+    second: Serene_Village_32x32_407
+  - first:
+      213: -8940189987509032346
+    second: Serene_Village_32x32_408
+  - first:
+      213: 3767909351533900535
+    second: Serene_Village_32x32_409
+  - first:
+      213: 1820996708826181016
+    second: Serene_Village_32x32_410
+  - first:
+      213: -2730882272596265010
+    second: Serene_Village_32x32_411
+  - first:
+      213: 9172340823355634088
+    second: Serene_Village_32x32_412
+  - first:
+      213: 7474655149738675236
+    second: Serene_Village_32x32_413
+  - first:
+      213: 217378892607080168
+    second: Serene_Village_32x32_414
+  - first:
+      213: 7067730259059751287
+    second: Serene_Village_32x32_415
+  - first:
+      213: -8744354972950825876
+    second: Serene_Village_32x32_416
+  - first:
+      213: -3781149083987303030
+    second: Serene_Village_32x32_417
+  - first:
+      213: -7698040664652133615
+    second: Serene_Village_32x32_418
+  - first:
+      213: 7791115501925354791
+    second: Serene_Village_32x32_419
+  - first:
+      213: -441525388318119583
+    second: Serene_Village_32x32_420
+  - first:
+      213: 3272931390907171253
+    second: Serene_Village_32x32_421
+  - first:
+      213: -405934175568314560
+    second: Serene_Village_32x32_422
+  - first:
+      213: -1244200692209919683
+    second: Serene_Village_32x32_423
+  - first:
+      213: 1476365746646525070
+    second: Serene_Village_32x32_424
+  - first:
+      213: 5492274622997590015
+    second: Serene_Village_32x32_425
+  - first:
+      213: 4748452367383775861
+    second: Serene_Village_32x32_426
+  - first:
+      213: -8348787007705961580
+    second: Serene_Village_32x32_427
+  - first:
+      213: 4130406680504091379
+    second: Serene_Village_32x32_428
+  - first:
+      213: -329991308261620580
+    second: Serene_Village_32x32_429
+  - first:
+      213: 123204686124068085
+    second: Serene_Village_32x32_430
+  - first:
+      213: -6854321241540513837
+    second: Serene_Village_32x32_431
+  - first:
+      213: -7258509176726685857
+    second: Serene_Village_32x32_432
+  - first:
+      213: -3344026824755186525
+    second: Serene_Village_32x32_433
+  - first:
+      213: -6431686996308664019
+    second: Serene_Village_32x32_434
+  - first:
+      213: 448606701837388913
+    second: Serene_Village_32x32_435
+  - first:
+      213: -7486649755249520995
+    second: Serene_Village_32x32_436
+  - first:
+      213: 6367487479021189038
+    second: Serene_Village_32x32_437
+  - first:
+      213: -2240026573360247275
+    second: Serene_Village_32x32_438
+  - first:
+      213: -1957147689776172530
+    second: Serene_Village_32x32_439
+  - first:
+      213: -3305098309219292565
+    second: Serene_Village_32x32_440
+  - first:
+      213: 1592099642648741112
+    second: Serene_Village_32x32_441
+  - first:
+      213: 5435298554185145518
+    second: Serene_Village_32x32_442
+  - first:
+      213: 5033189511932581125
+    second: Serene_Village_32x32_443
+  - first:
+      213: 218138344937714084
+    second: Serene_Village_32x32_444
+  - first:
+      213: -7078348299576084721
+    second: Serene_Village_32x32_445
+  - first:
+      213: 3266099237877271052
+    second: Serene_Village_32x32_446
+  - first:
+      213: 3771404122563028691
+    second: Serene_Village_32x32_447
+  - first:
+      213: -7355348761344113226
+    second: Serene_Village_32x32_448
+  - first:
+      213: -1594001514625541285
+    second: Serene_Village_32x32_449
+  - first:
+      213: 2336079437503118161
+    second: Serene_Village_32x32_450
+  - first:
+      213: -8380610991284037567
+    second: Serene_Village_32x32_451
+  - first:
+      213: -2840706398757547318
+    second: Serene_Village_32x32_452
+  - first:
+      213: 9098514169011530569
+    second: Serene_Village_32x32_453
+  - first:
+      213: -1742665620831234932
+    second: Serene_Village_32x32_454
+  - first:
+      213: -3402463115426625474
+    second: Serene_Village_32x32_455
+  - first:
+      213: 2315276190369593440
+    second: Serene_Village_32x32_456
+  - first:
+      213: 6147730035903826640
+    second: Serene_Village_32x32_457
+  - first:
+      213: 325206764830024086
+    second: Serene_Village_32x32_458
+  - first:
+      213: -2579973936721780207
+    second: Serene_Village_32x32_459
+  - first:
+      213: -3663863050365037908
+    second: Serene_Village_32x32_460
+  - first:
+      213: -7183734561614594683
+    second: Serene_Village_32x32_461
+  - first:
+      213: -7061943936186279609
+    second: Serene_Village_32x32_462
+  - first:
+      213: -7376328849382330755
+    second: Serene_Village_32x32_463
+  - first:
+      213: 7452535041232422586
+    second: Serene_Village_32x32_464
+  - first:
+      213: 3250442451313591073
+    second: Serene_Village_32x32_465
+  - first:
+      213: 3832980794413730790
+    second: Serene_Village_32x32_466
+  - first:
+      213: -4589479052125360655
+    second: Serene_Village_32x32_467
+  - first:
+      213: -6101071872072355996
+    second: Serene_Village_32x32_468
+  - first:
+      213: -5402532320608209019
+    second: Serene_Village_32x32_469
+  - first:
+      213: -4175138850973627496
+    second: Serene_Village_32x32_470
+  - first:
+      213: 8246992337102607470
+    second: Serene_Village_32x32_471
+  - first:
+      213: -3269831683969062223
+    second: Serene_Village_32x32_472
+  - first:
+      213: -2095333450208747162
+    second: Serene_Village_32x32_473
+  - first:
+      213: 4719458226132229661
+    second: Serene_Village_32x32_474
+  - first:
+      213: 7542487121607821698
+    second: Serene_Village_32x32_475
+  - first:
+      213: 9169421147223505655
+    second: Serene_Village_32x32_476
+  - first:
+      213: 5706987349624058136
+    second: Serene_Village_32x32_477
+  - first:
+      213: 5760692466653906301
+    second: Serene_Village_32x32_478
+  - first:
+      213: 3803757537607945128
+    second: Serene_Village_32x32_479
+  - first:
+      213: -5851123429624848421
+    second: Serene_Village_32x32_480
+  - first:
+      213: 2619854840184078862
+    second: Serene_Village_32x32_481
+  - first:
+      213: 6787175036926392469
+    second: Serene_Village_32x32_482
+  - first:
+      213: 7757345989742912740
+    second: Serene_Village_32x32_483
+  - first:
+      213: -6333855404531625104
+    second: Serene_Village_32x32_484
+  - first:
+      213: 637999274053112376
+    second: Serene_Village_32x32_485
+  - first:
+      213: -5051378275933741681
+    second: Serene_Village_32x32_486
+  - first:
+      213: 2168238215151040921
+    second: Serene_Village_32x32_487
+  - first:
+      213: 6311865998860708181
+    second: Serene_Village_32x32_488
+  - first:
+      213: -6449281362634887667
+    second: Serene_Village_32x32_489
+  - first:
+      213: -154561327867025335
+    second: Serene_Village_32x32_490
+  - first:
+      213: 510923029608433592
+    second: Serene_Village_32x32_491
+  - first:
+      213: -587239967851829408
+    second: Serene_Village_32x32_492
+  - first:
+      213: -6907366026258331522
+    second: Serene_Village_32x32_493
+  - first:
+      213: 4216694419999444508
+    second: Serene_Village_32x32_494
+  - first:
+      213: 7807991035717568889
+    second: Serene_Village_32x32_495
+  - first:
+      213: -6190435771025693253
+    second: Serene_Village_32x32_496
+  - first:
+      213: -3995563250218646954
+    second: Serene_Village_32x32_497
+  - first:
+      213: 808812696532216432
+    second: Serene_Village_32x32_498
+  - first:
+      213: 3212233382504326691
+    second: Serene_Village_32x32_499
+  - first:
+      213: 5638599422152616310
+    second: Serene_Village_32x32_500
+  - first:
+      213: 4694487622644230715
+    second: Serene_Village_32x32_501
+  - first:
+      213: 6775127503690535361
+    second: Serene_Village_32x32_502
+  - first:
+      213: -2390004338258442554
+    second: Serene_Village_32x32_503
+  - first:
+      213: -5053020051555903848
+    second: Serene_Village_32x32_504
+  - first:
+      213: -6801179880952389263
+    second: Serene_Village_32x32_505
+  - first:
+      213: 2192147282371727145
+    second: Serene_Village_32x32_506
+  - first:
+      213: 5806429363438264314
+    second: Serene_Village_32x32_507
+  - first:
+      213: 6673508096569566749
+    second: Serene_Village_32x32_508
+  - first:
+      213: -5793703422240345612
+    second: Serene_Village_32x32_509
+  - first:
+      213: 7281912103533927436
+    second: Serene_Village_32x32_510
+  - first:
+      213: -4258208087999428756
+    second: Serene_Village_32x32_511
+  - first:
+      213: 7732641434520088150
+    second: Serene_Village_32x32_512
+  - first:
+      213: 4202359421645439153
+    second: Serene_Village_32x32_513
+  - first:
+      213: 3801588070099714558
+    second: Serene_Village_32x32_514
+  - first:
+      213: 7598232388162293890
+    second: Serene_Village_32x32_515
+  - first:
+      213: 7945172406763768816
+    second: Serene_Village_32x32_516
+  - first:
+      213: 4873283053831600490
+    second: Serene_Village_32x32_517
+  - first:
+      213: 8845324892819396100
+    second: Serene_Village_32x32_518
+  - first:
+      213: 7339975710769860069
+    second: Serene_Village_32x32_519
+  - first:
+      213: 1896152446794933608
+    second: Serene_Village_32x32_520
+  - first:
+      213: -2664551579907912817
+    second: Serene_Village_32x32_521
+  - first:
+      213: -499926287224469974
+    second: Serene_Village_32x32_522
+  - first:
+      213: 5685766823404737336
+    second: Serene_Village_32x32_523
+  - first:
+      213: 3599338077544113506
+    second: Serene_Village_32x32_524
+  - first:
+      213: 5529548232215297437
+    second: Serene_Village_32x32_525
+  - first:
+      213: -3760636623368727490
+    second: Serene_Village_32x32_526
+  - first:
+      213: 2847678924461470713
+    second: Serene_Village_32x32_527
+  - first:
+      213: 4983697773308231484
+    second: Serene_Village_32x32_528
+  - first:
+      213: 8048685639496343952
+    second: Serene_Village_32x32_529
+  - first:
+      213: 2811962898783260661
+    second: Serene_Village_32x32_530
+  - first:
+      213: -213024674240398698
+    second: Serene_Village_32x32_531
+  - first:
+      213: 5873924429230805139
+    second: Serene_Village_32x32_532
+  - first:
+      213: 276531087910149533
+    second: Serene_Village_32x32_533
+  - first:
+      213: 531701079599917142
+    second: Serene_Village_32x32_534
+  - first:
+      213: -7577839900773549465
+    second: Serene_Village_32x32_535
+  - first:
+      213: -3030176460588811765
+    second: Serene_Village_32x32_536
+  - first:
+      213: 8505370818557307713
+    second: Serene_Village_32x32_537
+  - first:
+      213: 3823646077757391370
+    second: Serene_Village_32x32_538
+  - first:
+      213: -597121562774558332
+    second: Serene_Village_32x32_539
+  - first:
+      213: -8618639059274315334
+    second: Serene_Village_32x32_540
+  - first:
+      213: -8638019403415701875
+    second: Serene_Village_32x32_541
+  - first:
+      213: -5592179349729537134
+    second: Serene_Village_32x32_542
+  - first:
+      213: -8618488564668758929
+    second: Serene_Village_32x32_543
+  - first:
+      213: 7033243823098959176
+    second: Serene_Village_32x32_544
+  - first:
+      213: 904110581989595432
+    second: Serene_Village_32x32_545
+  - first:
+      213: 2918895883893975512
+    second: Serene_Village_32x32_546
+  - first:
+      213: -3368876246865760629
+    second: Serene_Village_32x32_547
+  - first:
+      213: 5315265803919276875
+    second: Serene_Village_32x32_548
+  - first:
+      213: 3797784522322558750
+    second: Serene_Village_32x32_549
+  - first:
+      213: -9084995219430945981
+    second: Serene_Village_32x32_550
+  - first:
+      213: -4136689955929603190
+    second: Serene_Village_32x32_551
+  - first:
+      213: -5675655616247611865
+    second: Serene_Village_32x32_552
+  - first:
+      213: -7276815166215930640
+    second: Serene_Village_32x32_553
+  - first:
+      213: -4575692895504230167
+    second: Serene_Village_32x32_554
+  - first:
+      213: -472269592380664036
+    second: Serene_Village_32x32_555
+  - first:
+      213: -6097595765476652831
+    second: Serene_Village_32x32_556
+  - first:
+      213: -8511749023832521225
+    second: Serene_Village_32x32_557
+  - first:
+      213: -5589581736517772058
+    second: Serene_Village_32x32_558
+  - first:
+      213: -3555949778049323273
+    second: Serene_Village_32x32_559
+  - first:
+      213: -6011531191849690130
+    second: Serene_Village_32x32_560
+  - first:
+      213: 4464967034497376779
+    second: Serene_Village_32x32_561
+  - first:
+      213: 8796082778075782870
+    second: Serene_Village_32x32_562
+  - first:
+      213: 7347537716148561500
+    second: Serene_Village_32x32_563
+  - first:
+      213: -3538091548474427936
+    second: Serene_Village_32x32_564
+  - first:
+      213: 1090112432545684039
+    second: Serene_Village_32x32_565
+  - first:
+      213: -3001262404581275242
+    second: Serene_Village_32x32_566
+  - first:
+      213: -7282043585480948844
+    second: Serene_Village_32x32_567
+  - first:
+      213: 1297373241661228391
+    second: Serene_Village_32x32_568
+  - first:
+      213: 135431975592472973
+    second: Serene_Village_32x32_569
+  - first:
+      213: -9205975268095597596
+    second: Serene_Village_32x32_570
+  - first:
+      213: 2065983239278976195
+    second: Serene_Village_32x32_571
+  - first:
+      213: 2308770165148775316
+    second: Serene_Village_32x32_572
+  - first:
+      213: -390471153365023829
+    second: Serene_Village_32x32_573
+  - first:
+      213: 2286490491065570864
+    second: Serene_Village_32x32_574
+  - first:
+      213: -5474619029971465764
+    second: Serene_Village_32x32_575
+  - first:
+      213: 7038944328508472472
+    second: Serene_Village_32x32_576
+  - first:
+      213: -3383990472743011133
+    second: Serene_Village_32x32_577
+  - first:
+      213: 7283147552157966922
+    second: Serene_Village_32x32_578
+  - first:
+      213: 5311694391527323488
+    second: Serene_Village_32x32_579
+  - first:
+      213: 1411059803028418964
+    second: Serene_Village_32x32_580
+  - first:
+      213: 3104518529296086116
+    second: Serene_Village_32x32_581
+  - first:
+      213: 4293140730964394016
+    second: Serene_Village_32x32_582
+  - first:
+      213: 7807519060875166397
+    second: Serene_Village_32x32_583
+  - first:
+      213: 922257475920706634
+    second: Serene_Village_32x32_584
+  - first:
+      213: -4013792872530556716
+    second: Serene_Village_32x32_585
+  - first:
+      213: 760177203122512669
+    second: Serene_Village_32x32_586
+  - first:
+      213: -7326319842905041226
+    second: Serene_Village_32x32_587
+  - first:
+      213: 510851402728172879
+    second: Serene_Village_32x32_588
+  - first:
+      213: -2763210068266471637
+    second: Serene_Village_32x32_589
+  - first:
+      213: 6054200741364100067
+    second: Serene_Village_32x32_590
+  - first:
+      213: 8035772058675085945
+    second: Serene_Village_32x32_591
+  - first:
+      213: 4418896514153436511
+    second: Serene_Village_32x32_592
+  - first:
+      213: -4208798828938002743
+    second: Serene_Village_32x32_593
+  - first:
+      213: -6012538214401416784
+    second: Serene_Village_32x32_594
+  - first:
+      213: 6705105584655868420
+    second: Serene_Village_32x32_595
+  - first:
+      213: 7481876064850324010
+    second: Serene_Village_32x32_596
+  - first:
+      213: -4060039788280448840
+    second: Serene_Village_32x32_597
+  - first:
+      213: 6234513812878823871
+    second: Serene_Village_32x32_598
+  - first:
+      213: -2388228039963538164
+    second: Serene_Village_32x32_599
+  - first:
+      213: -1281593732113333246
+    second: Serene_Village_32x32_600
+  - first:
+      213: 2373481562591633985
+    second: Serene_Village_32x32_601
+  - first:
+      213: -3565033909504002085
+    second: Serene_Village_32x32_602
+  - first:
+      213: 3705272889571597436
+    second: Serene_Village_32x32_603
+  - first:
+      213: 5784665362577665942
+    second: Serene_Village_32x32_604
+  - first:
+      213: 7519532698367506972
+    second: Serene_Village_32x32_605
+  - first:
+      213: 2481845255903537811
+    second: Serene_Village_32x32_606
+  - first:
+      213: -6802734332927443973
+    second: Serene_Village_32x32_607
+  - first:
+      213: -2038989983520628845
+    second: Serene_Village_32x32_608
+  - first:
+      213: 7202142857911391049
+    second: Serene_Village_32x32_609
+  - first:
+      213: -6621519358887251083
+    second: Serene_Village_32x32_610
+  - first:
+      213: 631551755035007578
+    second: Serene_Village_32x32_611
+  - first:
+      213: -3486273895500273664
+    second: Serene_Village_32x32_612
+  - first:
+      213: 4658549076872190058
+    second: Serene_Village_32x32_613
+  - first:
+      213: 1149295557504278115
+    second: Serene_Village_32x32_614
+  - first:
+      213: -6650476733007086858
+    second: Serene_Village_32x32_615
+  - first:
+      213: 8110917398041402290
+    second: Serene_Village_32x32_616
+  - first:
+      213: 2438396467412256526
+    second: Serene_Village_32x32_617
+  - first:
+      213: -2393578499425157559
+    second: Serene_Village_32x32_618
+  - first:
+      213: 5540476742113286214
+    second: Serene_Village_32x32_619
+  - first:
+      213: -8704758030827763795
+    second: Serene_Village_32x32_620
+  - first:
+      213: 3146503228083083026
+    second: Serene_Village_32x32_621
+  - first:
+      213: 2373256134309391517
+    second: Serene_Village_32x32_622
+  - first:
+      213: 3928933862816488290
+    second: Serene_Village_32x32_623
+  - first:
+      213: -8528469129288422157
+    second: Serene_Village_32x32_624
+  - first:
+      213: -6573726578335233547
+    second: Serene_Village_32x32_625
+  - first:
+      213: -3322848117990375342
+    second: Serene_Village_32x32_626
+  - first:
+      213: -6199336217694691870
+    second: Serene_Village_32x32_627
+  - first:
+      213: 4699632624248559944
+    second: Serene_Village_32x32_628
+  - first:
+      213: 5414155843087515315
+    second: Serene_Village_32x32_629
+  - first:
+      213: 5303706490107384807
+    second: Serene_Village_32x32_630
+  - first:
+      213: 3901051517439528046
+    second: Serene_Village_32x32_631
+  - first:
+      213: 2812220470684124223
+    second: Serene_Village_32x32_632
+  - first:
+      213: 5444942303279261297
+    second: Serene_Village_32x32_633
+  - first:
+      213: -595206284353108961
+    second: Serene_Village_32x32_634
+  - first:
+      213: -3750262608187442343
+    second: Serene_Village_32x32_635
+  - first:
+      213: 149062279793748444
+    second: Serene_Village_32x32_636
+  - first:
+      213: -8927237341117456873
+    second: Serene_Village_32x32_637
+  - first:
+      213: -8108773809108925200
+    second: Serene_Village_32x32_638
+  - first:
+      213: -3301304314297180577
+    second: Serene_Village_32x32_639
+  - first:
+      213: -8010875255335199769
+    second: Serene_Village_32x32_640
+  - first:
+      213: 3472091787739692910
+    second: Serene_Village_32x32_641
+  - first:
+      213: -1067553562794341901
+    second: Serene_Village_32x32_642
+  - first:
+      213: 5214737168669728713
+    second: Serene_Village_32x32_643
+  - first:
+      213: 3606855891460814824
+    second: Serene_Village_32x32_644
+  - first:
+      213: 8940023704771548626
+    second: Serene_Village_32x32_645
+  - first:
+      213: 5274279302570917729
+    second: Serene_Village_32x32_646
+  - first:
+      213: 2272472388702799741
+    second: Serene_Village_32x32_647
+  - first:
+      213: -2339347066689525483
+    second: Serene_Village_32x32_648
+  - first:
+      213: 9200117560193440586
+    second: Serene_Village_32x32_649
+  - first:
+      213: -3340608928613037685
+    second: Serene_Village_32x32_650
+  - first:
+      213: -7862743668974680908
+    second: Serene_Village_32x32_651
+  - first:
+      213: 8627449017730600731
+    second: Serene_Village_32x32_652
+  - first:
+      213: -4493744812424852725
+    second: Serene_Village_32x32_653
+  - first:
+      213: -2349708222518179318
+    second: Serene_Village_32x32_654
+  - first:
+      213: -3256077415065128849
+    second: Serene_Village_32x32_655
+  - first:
+      213: -4085683285898292419
+    second: Serene_Village_32x32_656
+  - first:
+      213: -2331982290067217850
+    second: Serene_Village_32x32_657
+  - first:
+      213: 3287139534982469989
+    second: Serene_Village_32x32_658
+  - first:
+      213: -1758886741151679038
+    second: Serene_Village_32x32_659
+  - first:
+      213: 2535486333967023677
+    second: Serene_Village_32x32_660
+  - first:
+      213: 5610370648786853935
+    second: Serene_Village_32x32_661
+  - first:
+      213: -5400038683430316258
+    second: Serene_Village_32x32_662
+  - first:
+      213: 1241030374969890213
+    second: Serene_Village_32x32_663
+  - first:
+      213: 785467831261171349
+    second: Serene_Village_32x32_664
+  - first:
+      213: 3694983943193977718
+    second: Serene_Village_32x32_665
+  - first:
+      213: -7496007122703678419
+    second: Serene_Village_32x32_666
+  - first:
+      213: 6862910209977056037
+    second: Serene_Village_32x32_667
+  - first:
+      213: 6367961523574568488
+    second: Serene_Village_32x32_668
+  - first:
+      213: 757908782797644215
+    second: Serene_Village_32x32_669
+  - first:
+      213: -498238064053874312
+    second: Serene_Village_32x32_670
+  - first:
+      213: -6990246563362602045
+    second: Serene_Village_32x32_671
+  - first:
+      213: -881732363641203244
+    second: Serene_Village_32x32_672
+  - first:
+      213: 695479267503649655
+    second: Serene_Village_32x32_673
+  - first:
+      213: 3861117619700189229
+    second: Serene_Village_32x32_674
+  - first:
+      213: 4902032544669487080
+    second: Serene_Village_32x32_675
+  - first:
+      213: -5377815879896590950
+    second: Serene_Village_32x32_676
+  - first:
+      213: 3307764386100799785
+    second: Serene_Village_32x32_677
+  - first:
+      213: -2308077223671422499
+    second: Serene_Village_32x32_678
+  - first:
+      213: 5705505469941275443
+    second: Serene_Village_32x32_679
+  - first:
+      213: -5033430908652593492
+    second: Serene_Village_32x32_680
+  - first:
+      213: 3465678066527886814
+    second: Serene_Village_32x32_681
+  - first:
+      213: -6046187449680493333
+    second: Serene_Village_32x32_682
+  - first:
+      213: -4074395370342463491
+    second: Serene_Village_32x32_683
+  - first:
+      213: 6863819356488007294
+    second: Serene_Village_32x32_684
+  - first:
+      213: -6556313456700924513
+    second: Serene_Village_32x32_685
+  - first:
+      213: -6816909509709235970
+    second: Serene_Village_32x32_686
+  - first:
+      213: 6153568421806685732
+    second: Serene_Village_32x32_687
+  - first:
+      213: -4029658697681394068
+    second: Serene_Village_32x32_688
+  - first:
+      213: 3892669213466760346
+    second: Serene_Village_32x32_689
+  - first:
+      213: 2444706150475944711
+    second: Serene_Village_32x32_690
+  - first:
+      213: -5742123134530728464
+    second: Serene_Village_32x32_691
+  - first:
+      213: 4375736020717180394
+    second: Serene_Village_32x32_692
+  - first:
+      213: 1323599900325966004
+    second: Serene_Village_32x32_693
+  - first:
+      213: -5706443317222347824
+    second: Serene_Village_32x32_694
+  - first:
+      213: -6025616614852987540
+    second: Serene_Village_32x32_695
+  - first:
+      213: 2630319643580803802
+    second: Serene_Village_32x32_696
+  - first:
+      213: -7215051670181625692
+    second: Serene_Village_32x32_697
+  - first:
+      213: -4402950157726792232
+    second: Serene_Village_32x32_698
+  - first:
+      213: 4634567945098681000
+    second: Serene_Village_32x32_699
+  - first:
+      213: -1264310789079542907
+    second: Serene_Village_32x32_700
+  - first:
+      213: 2851684604658893428
+    second: Serene_Village_32x32_701
+  - first:
+      213: -8652642518149854517
+    second: Serene_Village_32x32_702
+  - first:
+      213: 7543917980126010067
+    second: Serene_Village_32x32_703
+  - first:
+      213: -318083259762188413
+    second: Serene_Village_32x32_704
+  - first:
+      213: 8031370264550861892
+    second: Serene_Village_32x32_705
+  - first:
+      213: -6427253427106723024
+    second: Serene_Village_32x32_706
+  - first:
+      213: 925320869547585069
+    second: Serene_Village_32x32_707
+  - first:
+      213: 753935504396863459
+    second: Serene_Village_32x32_708
+  - first:
+      213: -3476817999059749495
+    second: Serene_Village_32x32_709
+  - first:
+      213: -7060504168595479688
+    second: Serene_Village_32x32_710
+  - first:
+      213: -4457467557652549530
+    second: Serene_Village_32x32_711
+  - first:
+      213: 1912022346964302261
+    second: Serene_Village_32x32_712
+  - first:
+      213: -7717364813052275341
+    second: Serene_Village_32x32_713
+  - first:
+      213: -283222349882655907
+    second: Serene_Village_32x32_714
+  - first:
+      213: 2757790734529124062
+    second: Serene_Village_32x32_715
+  - first:
+      213: 3343488950009224890
+    second: Serene_Village_32x32_716
+  - first:
+      213: -2066470559431026055
+    second: Serene_Village_32x32_717
+  - first:
+      213: -2898156006181840611
+    second: Serene_Village_32x32_718
+  - first:
+      213: -2515351115488910851
+    second: Serene_Village_32x32_719
+  - first:
+      213: 7701407274956077088
+    second: Serene_Village_32x32_720
+  - first:
+      213: 7223620874883220091
+    second: Serene_Village_32x32_721
+  - first:
+      213: -1515745775688776811
+    second: Serene_Village_32x32_722
+  - first:
+      213: -6043464325794117808
+    second: Serene_Village_32x32_723
+  - first:
+      213: 12365400878257707
+    second: Serene_Village_32x32_724
+  - first:
+      213: -2533628024400030359
+    second: Serene_Village_32x32_725
+  - first:
+      213: -3333086346048841040
+    second: Serene_Village_32x32_726
+  - first:
+      213: -5649864376334861583
+    second: Serene_Village_32x32_727
+  - first:
+      213: -7417107246515753532
+    second: Serene_Village_32x32_728
+  - first:
+      213: -2783941137302165593
+    second: Serene_Village_32x32_729
+  - first:
+      213: -4504996588149986055
+    second: Serene_Village_32x32_730
+  - first:
+      213: -4342052917911774540
+    second: Serene_Village_32x32_731
+  - first:
+      213: 267600569599177865
+    second: Serene_Village_32x32_732
+  - first:
+      213: 6278831910520952708
+    second: Serene_Village_mob_0
+  - first:
+      213: 8285222437204020131
+    second: Serene_Village_mob_1
+  - first:
+      213: -7549613556263489283
+    second: Serene_Village_mob_2
+  - first:
+      213: -2011957816814802300
+    second: Serene_Village_mob_3
+  - first:
+      213: 4738557891468962264
+    second: Serene_Village_mob_4
+  - first:
+      213: 5414545864722307293
+    second: Serene_Village_mob_5
+  - first:
+      213: -2780113545474551736
+    second: Serene_Village_mob_6
+  - first:
+      213: -862057930279107724
+    second: Serene_Village_mob_7
+  - first:
+      213: -2963954652159606641
+    second: Serene_Village_mob_8
+  - first:
+      213: -9033223933254185827
+    second: Serene_Village_mob_9
+  - first:
+      213: 1129215808619735305
+    second: Serene_Village_mob_10
+  - first:
+      213: -5288814700933119618
+    second: Serene_Village_mob_11
+  - first:
+      213: 4081659924635867484
+    second: Serene_Village_mob_12
+  - first:
+      213: 8551823651513789012
+    second: Serene_Village_mob_13
+  - first:
+      213: -2981453590479193306
+    second: Serene_Village_mob_14
+  - first:
+      213: 7970984801591554780
+    second: Serene_Village_mob_15
+  - first:
+      213: 7504335386680104111
+    second: Serene_Village_mob_16
+  - first:
+      213: -2744531588784716306
+    second: Serene_Village_mob_17
+  - first:
+      213: 1736577493494460062
+    second: Serene_Village_mob_18
+  - first:
+      213: -3383522344962110671
+    second: Serene_Village_mob_19
+  - first:
+      213: 5703009552194413014
+    second: Serene_Village_mob_20
+  - first:
+      213: 1140180766130008927
+    second: Serene_Village_mob_21
+  - first:
+      213: 1394025477518753471
+    second: Serene_Village_mob_22
+  - first:
+      213: 2559841403351216079
+    second: Serene_Village_mob_23
+  - first:
+      213: -5624396670247175539
+    second: Serene_Village_mob_24
+  - first:
+      213: 3396737988869966782
+    second: Serene_Village_mob_25
+  - first:
+      213: 4318939547548654988
+    second: Serene_Village_mob_26
+  - first:
+      213: 4194166798773094223
+    second: Serene_Village_mob_27
+  - first:
+      213: 8096961436086183723
+    second: Serene_Village_mob_28
+  - first:
+      213: 1216750185124972498
+    second: Serene_Village_mob_29
+  - first:
+      213: -3165588871093088395
+    second: Serene_Village_mob_30
+  - first:
+      213: -8615411563674308873
+    second: Serene_Village_mob_31
+  - first:
+      213: -1462439690606307153
+    second: Serene_Village_mob_32
+  - first:
+      213: -6530836325271628806
+    second: Serene_Village_mob_33
+  - first:
+      213: 3403437987203330060
+    second: Serene_Village_mob_34
+  - first:
+      213: -6546101911333628291
+    second: Serene_Village_mob_35
+  - first:
+      213: 6675451156747168294
+    second: Serene_Village_mob_36
+  - first:
+      213: -3671599857265671376
+    second: Serene_Village_mob_37
+  - first:
+      213: -7179684134510597460
+    second: Serene_Village_mob_38
+  - first:
+      213: 6985929847192729559
+    second: Serene_Village_mob_39
+  - first:
+      213: 1158308836231562281
+    second: Serene_Village_mob_40
+  - first:
+      213: -8742336865599077266
+    second: Serene_Village_mob_41
+  - first:
+      213: -8258758523650958372
+    second: Serene_Village_mob_42
+  - first:
+      213: -3196287340407496539
+    second: Serene_Village_mob_43
+  - first:
+      213: 4493898943089554533
+    second: Serene_Village_mob_44
+  - first:
+      213: 5236610086703936062
+    second: Serene_Village_mob_45
+  - first:
+      213: -5340676499674268570
+    second: Serene_Village_mob_46
+  - first:
+      213: 1212066974446997353
+    second: Serene_Village_mob_47
+  - first:
+      213: 5370262693270981839
+    second: Serene_Village_mob_48
+  - first:
+      213: 4715571117461899982
+    second: Serene_Village_mob_49
+  - first:
+      213: -2176857039045817425
+    second: Serene_Village_mob_50
+  - first:
+      213: -5832777828034277787
+    second: Serene_Village_mob_51
+  - first:
+      213: 3179732825943833343
+    second: Serene_Village_mob_52
+  - first:
+      213: 1752169899927733295
+    second: Serene_Village_mob_53
+  - first:
+      213: 9089485945497974855
+    second: Serene_Village_mob_54
+  - first:
+      213: -1571223677179784043
+    second: Serene_Village_mob_55
+  - first:
+      213: -5186394843552123018
+    second: Serene_Village_mob_56
+  - first:
+      213: -2408442996518814190
+    second: Serene_Village_mob_57
+  - first:
+      213: -4116394921084104654
+    second: Serene_Village_mob_58
+  - first:
+      213: 1382269572615505782
+    second: Serene_Village_mob_59
+  - first:
+      213: -8966002445224983991
+    second: Serene_Village_mob_60
+  - first:
+      213: 8532925066355728871
+    second: Serene_Village_mob_61
+  - first:
+      213: -3663235063255686226
+    second: Serene_Village_mob_62
+  - first:
+      213: -6656505166175080934
+    second: Serene_Village_mob_63
+  - first:
+      213: -2112642993228559664
+    second: Serene_Village_mob_64
+  - first:
+      213: 673151645836791915
+    second: Serene_Village_mob_65
+  - first:
+      213: -7087636227685250473
+    second: Serene_Village_mob_66
+  - first:
+      213: 8525845551335587194
+    second: Serene_Village_mob_67
+  - first:
+      213: -9221694274662904730
+    second: Serene_Village_mob_68
+  - first:
+      213: -1768826710434228328
+    second: Serene_Village_mob_69
+  - first:
+      213: 7041702147799350822
+    second: Serene_Village_mob_70
+  - first:
+      213: -1461929625305473968
+    second: Serene_Village_mob_71
+  - first:
+      213: 594860510555471939
+    second: Serene_Village_mob_72
+  - first:
+      213: 630758099054072113
+    second: Serene_Village_mob_73
+  - first:
+      213: 8742770586059269303
+    second: Serene_Village_mob_74
+  - first:
+      213: -473724729574444937
+    second: Serene_Village_mob_75
+  - first:
+      213: -6245113442277520022
+    second: Serene_Village_mob_76
+  - first:
+      213: -837177221862930208
+    second: Serene_Village_mob_77
+  - first:
+      213: 2176471828477536755
+    second: Serene_Village_mob_78
+  - first:
+      213: -2086245647070105626
+    second: Serene_Village_mob_79
+  - first:
+      213: -3950166227065557631
+    second: Serene_Village_mob_80
+  - first:
+      213: 1885989104613962802
+    second: Serene_Village_mob_81
+  - first:
+      213: 5540899719857182288
+    second: Serene_Village_mob_82
+  - first:
+      213: -8656811002282929453
+    second: Serene_Village_mob_83
+  - first:
+      213: 5457726276840420613
+    second: Serene_Village_mob_84
+  - first:
+      213: 1944822979296738721
+    second: Serene_Village_mob_85
+  - first:
+      213: -7105384527426778989
+    second: Serene_Village_mob_86
+  - first:
+      213: -6828210999601338479
+    second: Serene_Village_mob_87
+  - first:
+      213: -9009873771965986602
+    second: Serene_Village_mob_88
+  - first:
+      213: -7639570819313357293
+    second: Serene_Village_mob_89
+  - first:
+      213: -69019964150536331
+    second: Serene_Village_mob_90
+  - first:
+      213: 3311009156446078968
+    second: Serene_Village_mob_91
+  - first:
+      213: 2378708932784243204
+    second: Serene_Village_mob_92
+  - first:
+      213: -7412819714976607250
+    second: Serene_Village_mob_93
+  - first:
+      213: 3617452882228073560
+    second: Serene_Village_mob_94
+  - first:
+      213: -4937030805069628146
+    second: Serene_Village_mob_95
+  - first:
+      213: 8877691466973758383
+    second: Serene_Village_mob_96
+  - first:
+      213: 2095648716103068993
+    second: Serene_Village_mob_97
+  - first:
+      213: -8889446099214330163
+    second: Serene_Village_mob_98
+  - first:
+      213: 4251197243342132743
+    second: Serene_Village_mob_99
+  - first:
+      213: 930662951905196082
+    second: Serene_Village_mob_100
+  - first:
+      213: -1843318648275363177
+    second: Serene_Village_mob_101
+  - first:
+      213: 4363071559405837854
+    second: Serene_Village_mob_102
+  - first:
+      213: 17313031837438506
+    second: Serene_Village_mob_103
+  - first:
+      213: 8301102830544686481
+    second: Serene_Village_mob_104
+  - first:
+      213: 1264306585856530260
+    second: Serene_Village_mob_105
+  - first:
+      213: 4357313935624940156
+    second: Serene_Village_mob_106
+  - first:
+      213: -234771420368568353
+    second: Serene_Village_mob_107
+  - first:
+      213: -2092755961501869396
+    second: Serene_Village_mob_108
+  - first:
+      213: 9019798977513465590
+    second: Serene_Village_mob_109
+  - first:
+      213: -7262264467475260037
+    second: Serene_Village_mob_110
+  - first:
+      213: -3724819717593906155
+    second: Serene_Village_mob_111
+  - first:
+      213: 1018976560878072732
+    second: Serene_Village_mob_112
+  - first:
+      213: 4583013313185626222
+    second: Serene_Village_mob_113
+  - first:
+      213: -2165911821890380593
+    second: Serene_Village_mob_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Serene_Village_mob_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1336
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4871dfe1b54e22750800000000000000
+      internalID: 6278831910520952708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1216
+        width: 576
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab44aed8e50bf270800000000000000
+      internalID: 8285222437204020131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1326
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f07b58726a3790800000000000000
+      internalID: -7549613556263489283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1330
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aeea186071414e0800000000000000
+      internalID: -2011957816814802300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1324
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9a1acdb4db2c140800000000000000
+      internalID: 4738557891468962264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd855d6c6c4542b40800000000000000
+      internalID: 5414545864722307293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1314
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840dcb6c57d0b69d0800000000000000
+      internalID: -2780113545474551736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1316
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473c7e931ea5904f0800000000000000
+      internalID: -862057930279107724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1304
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8009a392faedd6d0800000000000000
+      internalID: -2963954652159606641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1302
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cc3d951ba83a280800000000000000
+      internalID: -9033223933254185827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1292
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909e88b8bc7cbaf00800000000000000
+      internalID: 1129215808619735305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1292
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7184040d0b5a96b0800000000000000
+      internalID: -5288814700933119618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1292
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595edd6318f4a830800000000000000
+      internalID: 4081659924635867484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1284
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a63423d4e2ea670800000000000000
+      internalID: 8551823651513789012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1282
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bbc2181cfbf96d0800000000000000
+      internalID: -2981453590479193306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1272
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2f6e8e170ae9e60800000000000000
+      internalID: 7970984801591554780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1262
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa416764641c42860800000000000000
+      internalID: 7504335386680104111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1266
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee506a7af0779e9d0800000000000000
+      internalID: -2744531588784716306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1260
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eeca09700991810800000000000000
+      internalID: 1736577493494460062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bcfea9a505b01d0800000000000000
+      internalID: -3383522344962110671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1250
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1253dc8f8252f40800000000000000
+      internalID: 5703009552194413014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1252
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5379e8ad5cb2df00800000000000000
+      internalID: 1140180766130008927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1240
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe795339c2985310800000000000000
+      internalID: 1394025477518753471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1238
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf26189132668320800000000000000
+      internalID: 2559841403351216079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1228
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8af60a170122f1b0800000000000000
+      internalID: -5624396670247175539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1228
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb4ba54433a32f20800000000000000
+      internalID: 3396737988869966782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1228
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1602c2a4ffeb30800000000000000
+      internalID: 4318939547548654988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1220
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478b995b7ca43a30800000000000000
+      internalID: 4194166798773094223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1218
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2724fdc68f2e5070800000000000000
+      internalID: 8096961436086183723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1088
+        width: 182
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7c3c4c8d3c2e010800000000000000
+      internalID: 1216750185124972498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1120
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f019991b19114d0800000000000000
+      internalID: -3165588871093088395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1056
+        width: 256
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe666944d8ef6880800000000000000
+      internalID: -8615411563674308873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1026
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa89af789de54bbe0800000000000000
+      internalID: -1462439690606307153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1026
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af397f9c6fecd55a0800000000000000
+      internalID: -6530836325271628806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1026
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00335231d07b3f20800000000000000
+      internalID: 3403437987203330060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1026
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76147f8ef29725a0800000000000000
+      internalID: -6546101911333628291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1026
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa2618577f3ac50800000000000000
+      internalID: 6675451156747168294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1024
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0330e4ef16bdb0dc0800000000000000
+      internalID: -3671599857265671376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 960
+        width: 256
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaecfab153ac5c90800000000000000
+      internalID: -7179684134510597460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 960
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7b8b7de2203f060800000000000000
+      internalID: 6985929847192729559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1004
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92447c3efb3231010800000000000000
+      internalID: 1158308836231562281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 994
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e644a2b80fafca680800000000000000
+      internalID: -8742336865599077266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_42
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 962
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb1e0821eef26d80800000000000000
+      internalID: -8258758523650958372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 992
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0eeea399184a3d0800000000000000
+      internalID: -3196287340407496539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_44
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 960
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643b5f67498d5e30800000000000000
+      internalID: 4493898943089554533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 978
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32373d012d2ca840800000000000000
+      internalID: 5236610086703936062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 930
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c73a8050b12e5b0800000000000000
+      internalID: -5340676499674268570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 976
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f45efcd7022d010800000000000000
+      internalID: 1212066974446997353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 962
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc03f67771078a40800000000000000
+      internalID: 5370262693270981839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 962
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca886972f2117140800000000000000
+      internalID: 4715571117461899982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab8dd47e004ac1e0800000000000000
+      internalID: -2176857039045817425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 932
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e0e32087fcd0fa0800000000000000
+      internalID: -5832777828034277787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 932
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaf703882ea02c20800000000000000
+      internalID: 3179732825943833343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 866
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2403579d35f05810800000000000000
+      internalID: 1752169899927733295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 32
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748ff4c2f47542e70800000000000000
+      internalID: 9089485945497974855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 320
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594140be364e13ae0800000000000000
+      internalID: -1571223677179784043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 864
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67778255e593608b0800000000000000
+      internalID: -5186394843552123018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 864
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ef7baeadd739ed0800000000000000
+      internalID: -2408442996518814190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_58
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 864
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2305f8df0a0afd6c0800000000000000
+      internalID: -4116394921084104654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 800
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677049b4adece2310800000000000000
+      internalID: 1382269572615505782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 802
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c41da74c529380800000000000000
+      internalID: -8966002445224983991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 768
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1e823732a0b6670800000000000000
+      internalID: 8532925066355728871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 832
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3a3ed5e13992dc0800000000000000
+      internalID: -3663235063255686226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_63
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 800
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ee49ca1d75f93a0800000000000000
+      internalID: -6656505166175080934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_64
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 832
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac46314626ea2e0800000000000000
+      internalID: -2112642993228559664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 650
+        width: 320
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60521afad3875900800000000000000
+      internalID: 673151645836791915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 768
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a81af1768a3ad90800000000000000
+      internalID: -7087636227685250473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 768
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7db3396b53e15670800000000000000
+      internalID: 8525845551335587194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 650
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cc6737ae5f50080800000000000000
+      internalID: -9221694274662904730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 650
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897585f7a7dd377e0800000000000000
+      internalID: -1768826710434228328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 650
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7fad7bc629b160800000000000000
+      internalID: 7041702147799350822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_71
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 646
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c1c0d50ce26bbe0800000000000000
+      internalID: -1461929625305473968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 522
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340019e8b7e514800800000000000000
+      internalID: 594860510555471939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_73
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 522
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13191513627e0c800800000000000000
+      internalID: 630758099054072113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_74
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 520
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ebced68f845970800000000000000
+      internalID: 8742770586059269303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_75
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 520
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770b56c4eddfc69f0800000000000000
+      internalID: -473724729574444937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_76
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 626
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d080b8966e459a0800000000000000
+      internalID: -6245113442277520022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_77
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 624
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8cfc490cfb164f0800000000000000
+      internalID: -837177221862930208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_78
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 610
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f96c08b891643e10800000000000000
+      internalID: 2176471828477536755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 578
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef6e2c23aa2c03e0800000000000000
+      internalID: -2086245647070105626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_80
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 570
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d2300deb03e29c0800000000000000
+      internalID: -3950166227065557631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_81
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 568
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b5c629116c2a10800000000000000
+      internalID: 1885989104613962802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_82
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 570
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056162230fa35ec40800000000000000
+      internalID: 5540899719857182288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_83
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 394
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d29b395244dcd780800000000000000
+      internalID: -8656811002282929453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_84
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 394
+        width: 138
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505736ce12dbdbb40800000000000000
+      internalID: 5457726276840420613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_85
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 504
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adbfff02366dfa10800000000000000
+      internalID: 1944822979296738721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_86
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 500
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3988b221b6a946d90800000000000000
+      internalID: -7105384527426778989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_87
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 500
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197e855f5425d31a0800000000000000
+      internalID: -6828210999601338479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 394
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8cbde6a8f76f280800000000000000
+      internalID: -9009873771965986602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_89
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 394
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2366e0dacaf590800000000000000
+      internalID: -7639570819313357293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_90
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a56255baca0ff0800000000000000
+      internalID: -69019964150536331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_91
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 480
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c80a094113fd20800000000000000
+      internalID: 3311009156446078968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_92
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 482
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40247a2eb2fd20120800000000000000
+      internalID: 2378708932784243204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_93
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 452
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee39ec87ebf502990800000000000000
+      internalID: -7412819714976607250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_94
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 448
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854dae4fa36c33230800000000000000
+      internalID: 3617452882228073560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_95
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 448
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0df9aae3a42c7bb0800000000000000
+      internalID: -4937030805069628146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_96
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 442
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3cc7a6a55e33b70800000000000000
+      internalID: 8877691466973758383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_97
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 440
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14da351776d351d10800000000000000
+      internalID: 2095648716103068993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_98
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 418
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6195efed752a480800000000000000
+      internalID: -8889446099214330163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_99
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 416
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70617877e594ffa30800000000000000
+      internalID: 4251197243342132743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_100
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 266
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238fced16016aec00800000000000000
+      internalID: 930662951905196082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_101
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 266
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a91b9a4773b66e0800000000000000
+      internalID: -1843318648275363177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 264
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9efb777ebc8c30800000000000000
+      internalID: 4363071559405837854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_103
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 264
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22d7a85c128d3000800000000000000
+      internalID: 17313031837438506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_104
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 340
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d0b921b01733370800000000000000
+      internalID: 8301102830544686481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_105
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 352
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4575a292428bb8110800000000000000
+      internalID: 1264306585856530260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_106
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 340
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aa8cb30f9487c30800000000000000
+      internalID: 4357313935624940156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_107
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf748513acedbcf0800000000000000
+      internalID: -234771420368568353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_108
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 138
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa99197a8905f2e0800000000000000
+      internalID: -2092755961501869396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_109
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 138
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f62f109163cc2d70800000000000000
+      internalID: 9019798977513465590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_110
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 138
+        width: 138
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d1237a1f0473b90800000000000000
+      internalID: -7262264467475260037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_111
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 10
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c178a338ce4cc0800000000000000
+      internalID: -3724819717593906155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_112
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 10
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93369988c1242e00800000000000000
+      internalID: 1018976560878072732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 8
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b05593522a9f30800000000000000
+      internalID: 4583013313185626222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_mob_114
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 8
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc97696ca221f1e0800000000000000
+      internalID: -2165911821890380593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

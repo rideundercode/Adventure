@@ -1,0 +1,2178 @@
+fileFormatVersion: 2
+guid: d2febcf3d8b8a194099a220c5cb24913
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2952730121602807721
+    second: Enemy 04-1_0
+  - first:
+      213: 603246180932034874
+    second: Enemy 04-1_1
+  - first:
+      213: -5161489949763356392
+    second: Enemy 04-1_2
+  - first:
+      213: -8740708222697440525
+    second: Enemy 04-1_3
+  - first:
+      213: 6623458078085082728
+    second: Enemy 04-1_4
+  - first:
+      213: -2830400777432795297
+    second: Enemy 04-1_5
+  - first:
+      213: -7287813568785449157
+    second: Enemy 04-1_6
+  - first:
+      213: -2866906920947679445
+    second: Enemy 04-1_7
+  - first:
+      213: 4939714459312616774
+    second: Enemy 04-1_8
+  - first:
+      213: 1188347423493197173
+    second: Enemy 04-1_9
+  - first:
+      213: 4779613494383706331
+    second: Enemy 04-1_10
+  - first:
+      213: -7913673970954426626
+    second: Enemy 04-1_11
+  - first:
+      213: 7657365991172013052
+    second: Enemy 04-1_12
+  - first:
+      213: -6346115661641487859
+    second: Enemy 04-1_13
+  - first:
+      213: 7876719762786806333
+    second: Enemy 04-1_14
+  - first:
+      213: 8669295293810418855
+    second: Enemy 04-1_15
+  - first:
+      213: -3566767354802408486
+    second: Enemy 04-1_16
+  - first:
+      213: -2999684333300531464
+    second: Enemy 04-1_17
+  - first:
+      213: 4167752370005537460
+    second: Enemy 04-1_18
+  - first:
+      213: 3538820891607368369
+    second: Enemy 04-1_19
+  - first:
+      213: 3306287432218197832
+    second: Enemy 04-1_20
+  - first:
+      213: 4092892733645243857
+    second: Enemy 04-1_21
+  - first:
+      213: -478551300541587039
+    second: Enemy 04-1_22
+  - first:
+      213: -9213469104147113163
+    second: Enemy 04-1_23
+  - first:
+      213: -7443286620030592648
+    second: Enemy 04-1_24
+  - first:
+      213: 2523123676191262523
+    second: Enemy 04-1_25
+  - first:
+      213: -2483128093007032291
+    second: Enemy 04-1_26
+  - first:
+      213: 3243446648870758957
+    second: Enemy 04-1_27
+  - first:
+      213: 2048435923906128108
+    second: Enemy 04-1_28
+  - first:
+      213: -6051627499514502126
+    second: Enemy 04-1_29
+  - first:
+      213: 2119189743857220909
+    second: Enemy 04-1_30
+  - first:
+      213: 1192486186950834109
+    second: Enemy 04-1_31
+  - first:
+      213: -8642384768882278564
+    second: Enemy 04-1_32
+  - first:
+      213: 3373574948539315346
+    second: Enemy 04-1_33
+  - first:
+      213: -2841480007767155882
+    second: Enemy 04-1_34
+  - first:
+      213: -604983874455376682
+    second: Enemy 04-1_35
+  - first:
+      213: -5710957197749105736
+    second: Enemy 04-1_36
+  - first:
+      213: -8913150011193081531
+    second: Enemy 04-1_37
+  - first:
+      213: -2517151577061632444
+    second: Enemy 04-1_38
+  - first:
+      213: -8059290373283853340
+    second: Enemy 04-1_39
+  - first:
+      213: 3441921520044649236
+    second: Enemy 04-1_40
+  - first:
+      213: 7879007797719596939
+    second: Enemy 04-1_41
+  - first:
+      213: 8949845960027878297
+    second: Enemy 04-1_42
+  - first:
+      213: 5993095140913198603
+    second: Enemy 04-1_43
+  - first:
+      213: 643434474756913725
+    second: Enemy 04-1_44
+  - first:
+      213: 975980391656592665
+    second: Enemy 04-1_45
+  - first:
+      213: 5963684389630246391
+    second: Enemy 04-1_46
+  - first:
+      213: 6017713366740224467
+    second: Enemy 04-1_47
+  - first:
+      213: -3551731667818840793
+    second: Enemy 04-1_48
+  - first:
+      213: -4707858813053512335
+    second: Enemy 04-1_49
+  - first:
+      213: 8270852679666205574
+    second: Enemy 04-1_50
+  - first:
+      213: -3570792807272264681
+    second: Enemy 04-1_51
+  - first:
+      213: -3662316928111555971
+    second: Enemy 04-1_52
+  - first:
+      213: 790337299189725916
+    second: Enemy 04-1_53
+  - first:
+      213: -7915436473946532011
+    second: Enemy 04-1_54
+  - first:
+      213: -4420784325189968739
+    second: Enemy 04-1_55
+  - first:
+      213: -4928447994511977138
+    second: Enemy 04-1_56
+  - first:
+      213: -278918265842683045
+    second: Enemy 04-1_57
+  - first:
+      213: 8026694474806750550
+    second: Enemy 04-1_58
+  - first:
+      213: -1313423781103977657
+    second: Enemy 04-1_59
+  - first:
+      213: -1765385588848654642
+    second: Enemy 04-1_60
+  - first:
+      213: 7064638458755703460
+    second: Enemy 04-1_61
+  - first:
+      213: 7217240572996382034
+    second: Enemy 04-1_62
+  - first:
+      213: -2577271894546772409
+    second: Enemy 04-1_63
+  - first:
+      213: -8292726348574282161
+    second: Enemy 04-1_64
+  - first:
+      213: -3512579886094053233
+    second: Enemy 04-1_65
+  - first:
+      213: 1000022315286253204
+    second: Enemy 04-1_66
+  - first:
+      213: -8806868102530018048
+    second: Enemy 04-1_67
+  - first:
+      213: -3034226008256856558
+    second: Enemy 04-1_68
+  - first:
+      213: -2205933373666931822
+    second: Enemy 04-1_69
+  - first:
+      213: 3412535884347232010
+    second: Enemy 04-1_70
+  - first:
+      213: -5673433997597766276
+    second: Enemy 04-1_71
+  - first:
+      213: 7989143181868261419
+    second: Enemy 04-1_72
+  - first:
+      213: 6065220746735512290
+    second: Enemy 04-1_73
+  - first:
+      213: 5610676963044723189
+    second: Enemy 04-1_74
+  - first:
+      213: -146523292045358140
+    second: Enemy 04-1_75
+  - first:
+      213: -6140432156728242141
+    second: Enemy 04-1_76
+  - first:
+      213: 9083169824499514194
+    second: Enemy 04-1_77
+  - first:
+      213: -7745730014344114014
+    second: Enemy 04-1_78
+  - first:
+      213: 8295616133978551030
+    second: Enemy 04-1_79
+  - first:
+      213: 7018148942578629725
+    second: Enemy 04-1_80
+  - first:
+      213: -4472276733830334510
+    second: Enemy 04-1_81
+  - first:
+      213: -5045202475319074665
+    second: Enemy 04-1_82
+  - first:
+      213: 6465627883097314864
+    second: Enemy 04-1_83
+  - first:
+      213: -3724849643717175091
+    second: Enemy 04-1_84
+  - first:
+      213: -949391064145595780
+    second: Enemy 04-1_85
+  - first:
+      213: 8926245349589939501
+    second: Enemy 04-1_86
+  - first:
+      213: 213564557311096960
+    second: Enemy 04-1_87
+  - first:
+      213: -8498952437136663934
+    second: Enemy 04-1_88
+  - first:
+      213: 6053779793260664693
+    second: Enemy 04-1_89
+  - first:
+      213: -2442075395708132146
+    second: Enemy 04-1_90
+  - first:
+      213: -7687878760997885001
+    second: Enemy 04-1_91
+  - first:
+      213: 1508232539883040359
+    second: Enemy 04-1_92
+  - first:
+      213: 3302464295066055214
+    second: Enemy 04-1_93
+  - first:
+      213: 5023359483212755329
+    second: Enemy 04-1_94
+  - first:
+      213: 7858131639159388371
+    second: Enemy 04-1_95
+  - first:
+      213: -874268450312360442
+    second: Enemy 04-1_96
+  - first:
+      213: 7796642176558551689
+    second: Enemy 04-1_97
+  - first:
+      213: -1516697745901949965
+    second: Enemy 04-1_98
+  - first:
+      213: -621950711737283566
+    second: Enemy 04-1_99
+  - first:
+      213: -4322536721845390224
+    second: Enemy 04-1_100
+  - first:
+      213: 6575370945239729022
+    second: Enemy 04-1_101
+  - first:
+      213: -3046428380860103265
+    second: Enemy 04-1_102
+  - first:
+      213: 2647661459593254535
+    second: Enemy 04-1_103
+  - first:
+      213: 3676563437194642063
+    second: Enemy 04-1_104
+  - first:
+      213: -2255844742477619563
+    second: Enemy 04-1_105
+  - first:
+      213: 5374400568497954637
+    second: Enemy 04-1_106
+  - first:
+      213: -7314024379026171997
+    second: Enemy 04-1_107
+  - first:
+      213: 3887066846348747093
+    second: Enemy 04-1_108
+  - first:
+      213: -5592384831422658359
+    second: Enemy 04-1_109
+  - first:
+      213: -2951827984015537744
+    second: Enemy 04-1_110
+  - first:
+      213: 5285028459984721365
+    second: Enemy 04-1_111
+  - first:
+      213: -2127958549879297010
+    second: Enemy 04-1_112
+  - first:
+      213: 1013800545243422506
+    second: Enemy 04-1_113
+  - first:
+      213: 1439648838189900574
+    second: Enemy 04-1_114
+  - first:
+      213: 7949393518333100364
+    second: Enemy 04-1_115
+  - first:
+      213: -480044382203029540
+    second: Enemy 04-1_116
+  - first:
+      213: 5287707798638055472
+    second: Enemy 04-1_117
+  - first:
+      213: 4107495814901426895
+    second: Enemy 04-1_118
+  - first:
+      213: -7040469079034092738
+    second: Enemy 04-1_119
+  - first:
+      213: 5890957230626591242
+    second: Enemy 04-1_120
+  - first:
+      213: -3872827841111716965
+    second: Enemy 04-1_121
+  - first:
+      213: -2088966993683538784
+    second: Enemy 04-1_122
+  - first:
+      213: -4788308972987657567
+    second: Enemy 04-1_123
+  - first:
+      213: 4651704393154948293
+    second: Enemy 04-1_124
+  - first:
+      213: -4034480058043610696
+    second: Enemy 04-1_125
+  - first:
+      213: -5622351544634515920
+    second: Enemy 04-1_126
+  - first:
+      213: -3392707020022807347
+    second: Enemy 04-1_127
+  - first:
+      213: -2113067251526025080
+    second: Enemy 04-1_128
+  - first:
+      213: -8952882081202205248
+    second: Enemy 04-1_129
+  - first:
+      213: 104958915695917210
+    second: Enemy 04-1_130
+  - first:
+      213: -1158487786539897473
+    second: Enemy 04-1_131
+  - first:
+      213: 6764237310574553745
+    second: Enemy 04-1_132
+  - first:
+      213: -4087555651087579232
+    second: Enemy 04-1_133
+  - first:
+      213: 4830647242871933534
+    second: Enemy 04-1_134
+  - first:
+      213: -3645970305074697009
+    second: Enemy 04-1_135
+  - first:
+      213: 6279144265625071399
+    second: Enemy 04-1_136
+  - first:
+      213: 5450312705124253058
+    second: Enemy 04-1_137
+  - first:
+      213: 6622070735041792432
+    second: Enemy 04-1_138
+  - first:
+      213: 5523887590962814977
+    second: Enemy 04-1_139
+  - first:
+      213: -3272421451690446352
+    second: Enemy 04-1_140
+  - first:
+      213: -2967961692650414717
+    second: Enemy 04-1_141
+  - first:
+      213: 6185289479817801832
+    second: Enemy 04-1_142
+  - first:
+      213: 3870258987605570790
+    second: Enemy 04-1_143
+  - first:
+      213: -3187752271179661333
+    second: Enemy 04-1_144
+  - first:
+      213: -5425020805781480350
+    second: Enemy 04-1_145
+  - first:
+      213: -7754947732944694276
+    second: Enemy 04-1_146
+  - first:
+      213: -1792349876418265316
+    second: Enemy 04-1_147
+  - first:
+      213: 432218516770248493
+    second: Enemy 04-1_148
+  - first:
+      213: 1477080262127027379
+    second: Enemy 04-1_149
+  - first:
+      213: 1660321862501908071
+    second: Enemy 04-1_150
+  - first:
+      213: 389909557861033039
+    second: Enemy 04-1_151
+  - first:
+      213: 6469314374792243708
+    second: Enemy 04-1_152
+  - first:
+      213: -4957582400396328016
+    second: Enemy 04-1_153
+  - first:
+      213: -5616414193564996215
+    second: Enemy 04-1_154
+  - first:
+      213: 6435838817600607769
+    second: Enemy 04-1_155
+  - first:
+      213: 6960423121146870461
+    second: Enemy 04-1_156
+  - first:
+      213: -8096922322033503859
+    second: Enemy 04-1_157
+  - first:
+      213: 3555517005546383393
+    second: Enemy 04-1_158
+  - first:
+      213: -4534400046461852564
+    second: Enemy 04-1_159
+  - first:
+      213: -4103811813165601541
+    second: Enemy 04-1_160
+  - first:
+      213: -3834659048715111578
+    second: Enemy 04-1_161
+  - first:
+      213: 2088549658730488120
+    second: Enemy 04-1_162
+  - first:
+      213: -2431760993011277909
+    second: Enemy 04-1_163
+  - first:
+      213: 5773473108257051716
+    second: Enemy 04-1_164
+  - first:
+      213: -1758342250967625684
+    second: Enemy 04-1_165
+  - first:
+      213: 5953704793832261820
+    second: Enemy 04-1_166
+  - first:
+      213: 5837073189592011485
+    second: Enemy 04-1_167
+  - first:
+      213: 4958845165294925183
+    second: Enemy 04-1_168
+  - first:
+      213: -7695783195067533141
+    second: Enemy 04-1_169
+  - first:
+      213: -5538106676251771405
+    second: Enemy 04-1_170
+  - first:
+      213: 6269783885395091569
+    second: Enemy 04-1_171
+  - first:
+      213: 8718093789030327708
+    second: Enemy 04-1_172
+  - first:
+      213: 4169806827104074977
+    second: Enemy 04-1_173
+  - first:
+      213: -6049090914897071120
+    second: Enemy 04-1_174
+  - first:
+      213: -6952278596330542221
+    second: Enemy 04-1_175
+  - first:
+      213: -460215716100189014
+    second: Enemy 04-1_176
+  - first:
+      213: -4046401651622125722
+    second: Enemy 04-1_177
+  - first:
+      213: 6497567070665202422
+    second: Enemy 04-1_178
+  - first:
+      213: -8524066108988157122
+    second: Enemy 04-1_179
+  - first:
+      213: 6766593606849124285
+    second: Enemy 04-1_180
+  - first:
+      213: 3954086216180190171
+    second: Enemy 04-1_181
+  - first:
+      213: -6603476169222778509
+    second: Enemy 04-1_182
+  - first:
+      213: -1277077918869751536
+    second: Enemy 04-1_183
+  - first:
+      213: -1402763346344884207
+    second: Enemy 04-1_184
+  - first:
+      213: 7443575914108056818
+    second: Enemy 04-1_185
+  - first:
+      213: 5453884551672427744
+    second: Enemy 04-1_186
+  - first:
+      213: -2955692497952239805
+    second: Enemy 04-1_187
+  - first:
+      213: -6541269873355660595
+    second: Enemy 04-1_188
+  - first:
+      213: 212526067574202236
+    second: Enemy 04-1_189
+  - first:
+      213: -5935137267510601285
+    second: Enemy 04-1_190
+  - first:
+      213: -1567894607494312927
+    second: Enemy 04-1_191
+  - first:
+      213: -2999957132925740884
+    second: Enemy 04-1_192
+  - first:
+      213: 3209850392414993992
+    second: Enemy 04-1_193
+  - first:
+      213: -2964589937713505198
+    second: Enemy 04-1_194
+  - first:
+      213: -6924306127068920461
+    second: Enemy 04-1_195
+  - first:
+      213: 43907834653714191
+    second: Enemy 04-1_196
+  - first:
+      213: -2563258157589096888
+    second: Enemy 04-1_197
+  - first:
+      213: 8778147871892959743
+    second: Enemy 04-1_198
+  - first:
+      213: 1670450764542818665
+    second: Enemy 04-1_199
+  - first:
+      213: -3005480648113246897
+    second: Enemy 04-1_200
+  - first:
+      213: -1861986493245164704
+    second: Enemy 04-1_201
+  - first:
+      213: 1425406395785183767
+    second: Enemy 04-1_202
+  - first:
+      213: 2839743702373661317
+    second: Enemy 04-1_203
+  - first:
+      213: -3809422814647428494
+    second: Enemy 04-1_204
+  - first:
+      213: -928726876007590639
+    second: Enemy 04-1_205
+  - first:
+      213: 456204225418020333
+    second: Enemy 04-1_206
+  - first:
+      213: -4755236498111897356
+    second: Enemy 04-1_207
+  - first:
+      213: -204112658446992075
+    second: Enemy 04-1_208
+  - first:
+      213: -8624056809394578224
+    second: Enemy 04-1_209
+  - first:
+      213: 7857797521116225560
+    second: Enemy 04-1_210
+  - first:
+      213: -8097563915549572607
+    second: Enemy 04-1_211
+  - first:
+      213: 834046593939298510
+    second: Enemy 04-1_212
+  - first:
+      213: -3578802791070120595
+    second: Enemy 04-1_213
+  - first:
+      213: 834850774632003607
+    second: Enemy 04-1_214
+  - first:
+      213: -1658741308486034414
+    second: Enemy 04-1_215
+  - first:
+      213: 9136575638286206338
+    second: Enemy 04-1_216
+  - first:
+      213: 3570222426789168386
+    second: Enemy 04-1_217
+  - first:
+      213: 8173118871753511347
+    second: Enemy 04-1_218
+  - first:
+      213: -7101676281142194595
+    second: Enemy 04-1_219
+  - first:
+      213: -1511839552591429738
+    second: Enemy 04-1_220
+  - first:
+      213: 7449002742771879012
+    second: Enemy 04-1_221
+  - first:
+      213: -8389931387948273377
+    second: Enemy 04-1_222
+  - first:
+      213: -6009082863781785832
+    second: Enemy 04-1_223
+  - first:
+      213: -7975909441741850683
+    second: Enemy 04-1_224
+  - first:
+      213: -4867536347828610793
+    second: Enemy 04-1_225
+  - first:
+      213: 6675311000269814487
+    second: Enemy 04-1_226
+  - first:
+      213: -2975052568690999557
+    second: Enemy 04-1_227
+  - first:
+      213: 8410346939285870824
+    second: Enemy 04-1_228
+  - first:
+      213: 9096983811992640209
+    second: Enemy 04-1_229
+  - first:
+      213: -2441781335821893637
+    second: Enemy 04-1_230
+  - first:
+      213: -4107150632390849041
+    second: Enemy 04-1_231
+  - first:
+      213: -8099781420997057217
+    second: Enemy 04-1_232
+  - first:
+      213: 2388867782728311156
+    second: Enemy 04-1_233
+  - first:
+      213: 8635377387426333423
+    second: Enemy 04-1_234
+  - first:
+      213: -4594501173214368367
+    second: Enemy 04-1_235
+  - first:
+      213: -7788755247178762717
+    second: Enemy 04-1_236
+  - first:
+      213: -5627197613074424792
+    second: Enemy 04-1_237
+  - first:
+      213: -2040671477095987109
+    second: Enemy 04-1_238
+  - first:
+      213: 3677051334199418620
+    second: Enemy 04-1_239
+  - first:
+      213: -982053111722572862
+    second: Enemy 04-1_240
+  - first:
+      213: 3971899057377758431
+    second: Enemy 04-1_241
+  - first:
+      213: -6219557946928050603
+    second: Enemy 04-1_242
+  - first:
+      213: 8354888381675208514
+    second: Enemy 04-1_243
+  - first:
+      213: -5304821983592324534
+    second: Enemy 04-1_244
+  - first:
+      213: -2215307920592303165
+    second: Enemy 04-1_245
+  - first:
+      213: -1916101340577221259
+    second: Enemy 04-1_246
+  - first:
+      213: -9076625507863580843
+    second: Enemy 04-1_247
+  - first:
+      213: 427258892583478539
+    second: Enemy 04-1_248
+  - first:
+      213: -969671150011544054
+    second: Enemy 04-1_249
+  - first:
+      213: 9149256410793227822
+    second: Enemy 04-1_250
+  - first:
+      213: -4117850515299950500
+    second: Enemy 04-1_251
+  - first:
+      213: -7133605567330312139
+    second: Enemy 04-1_252
+  - first:
+      213: -8948732044832912283
+    second: Enemy 04-1_253
+  - first:
+      213: -6912483855680700236
+    second: Enemy 04-1_254
+  - first:
+      213: -5785483622181207701
+    second: Enemy 04-1_255
+  - first:
+      213: -6808710527176361438
+    second: Enemy 04-1_256
+  - first:
+      213: -2806179256517752572
+    second: Enemy 04-1_257
+  - first:
+      213: 6627595438975434521
+    second: Enemy 04-1_258
+  - first:
+      213: 309978630659553073
+    second: Enemy 04-1_259
+  - first:
+      213: 4083779722602801617
+    second: Enemy 04-1_260
+  - first:
+      213: -2428185240841650190
+    second: Enemy 04-1_261
+  - first:
+      213: 1583508758869331848
+    second: Enemy 04-1_262
+  - first:
+      213: 1177792119057641948
+    second: Enemy 04-1_263
+  - first:
+      213: 1419444166857394650
+    second: Enemy 04-1_264
+  - first:
+      213: 2400057838529353270
+    second: Enemy 04-1_265
+  - first:
+      213: 1971203741522309857
+    second: Enemy 04-1_266
+  - first:
+      213: -8821998599822327678
+    second: Enemy 04-1_267
+  - first:
+      213: 3770266198499754232
+    second: Enemy 04-1_268
+  - first:
+      213: -8896466148613454078
+    second: Enemy 04-1_269
+  - first:
+      213: 3946697973217120029
+    second: Enemy 04-1_270
+  - first:
+      213: -5046694878445147172
+    second: Enemy 04-1_271
+  - first:
+      213: -8434709064769916880
+    second: Enemy 04-1_272
+  - first:
+      213: -7321888078768977079
+    second: Enemy 04-1_273
+  - first:
+      213: -4070380390249839081
+    second: Enemy 04-1_274
+  - first:
+      213: -2443493227016375794
+    second: Enemy 04-1_275
+  - first:
+      213: -4186941379863806112
+    second: Enemy 04-1_276
+  - first:
+      213: 7874650716353608358
+    second: Enemy 04-1_277
+  - first:
+      213: -7778709357913708259
+    second: Enemy 04-1_278
+  - first:
+      213: 7369856940250558422
+    second: Enemy 04-1_279
+  - first:
+      213: 8821012704217079653
+    second: Enemy 04-1_280
+  - first:
+      213: 3018121471841647171
+    second: Enemy 04-1_281
+  - first:
+      213: 6441225349107205487
+    second: Enemy 04-1_282
+  - first:
+      213: 2055476985580271490
+    second: Enemy 04-1_283
+  - first:
+      213: -2137017191440300118
+    second: Enemy 04-1_284
+  - first:
+      213: 5256318196873123566
+    second: Enemy 04-1_285
+  - first:
+      213: 4623648567509748406
+    second: Enemy 04-1_286
+  - first:
+      213: -8186099412891030707
+    second: Enemy 04-1_287
+  - first:
+      213: -4940426857703089296
+    second: Enemy 04-1_288
+  - first:
+      213: 8283252068798880397
+    second: Enemy 04-1_289
+  - first:
+      213: 6980605641292432304
+    second: Enemy 04-1_290
+  - first:
+      213: -7076975401582104146
+    second: Enemy 04-1_291
+  - first:
+      213: -2027042359817852848
+    second: Enemy 04-1_292
+  - first:
+      213: 5312669197128786531
+    second: Enemy 04-1_293
+  - first:
+      213: -4273127059421591727
+    second: Enemy 04-1_294
+  - first:
+      213: 8904042131676137638
+    second: Enemy 04-1_295
+  - first:
+      213: -5014783467828820260
+    second: Enemy 04-1_296
+  - first:
+      213: 3519601289687724984
+    second: Enemy 04-1_297
+  - first:
+      213: -6652526572008362545
+    second: Enemy 04-1_298
+  - first:
+      213: 1491036897079839786
+    second: Enemy 04-1_299
+  - first:
+      213: 3286114799859941806
+    second: Enemy 04-1_300
+  - first:
+      213: 5175771162627899950
+    second: Enemy 04-1_301
+  - first:
+      213: 6573025022361574280
+    second: Enemy 04-1_302
+  - first:
+      213: -2918292368865920049
+    second: Enemy 04-1_303
+  - first:
+      213: -8542564165906975736
+    second: Enemy 04-1_304
+  - first:
+      213: 5106083854170273855
+    second: Enemy 04-1_305
+  - first:
+      213: 6264784879852258568
+    second: Enemy 04-1_306
+  - first:
+      213: 5525075422811448786
+    second: Enemy 04-1_307
+  - first:
+      213: -5363596290777129849
+    second: Enemy 04-1_308
+  - first:
+      213: -4338268509101772290
+    second: Enemy 04-1_309
+  - first:
+      213: 2268168813805166054
+    second: Enemy 04-1_310
+  - first:
+      213: 4794030722672636856
+    second: Enemy 04-1_311
+  - first:
+      213: -5942256414796145336
+    second: Enemy 04-1_312
+  - first:
+      213: -5199346354378204576
+    second: Enemy 04-1_313
+  - first:
+      213: 2239909552061416539
+    second: Enemy 04-1_314
+  - first:
+      213: -5870103770460446037
+    second: Enemy 04-1_315
+  - first:
+      213: 3604410387220284360
+    second: Enemy 04-1_316
+  - first:
+      213: -134358490088071595
+    second: Enemy 04-1_317
+  - first:
+      213: -2568171907860054347
+    second: Enemy 04-1_318
+  - first:
+      213: -7521951360603754498
+    second: Enemy 04-1_319
+  - first:
+      213: 2895558808397064960
+    second: Enemy 04-1_320
+  - first:
+      213: 6360311036565416689
+    second: Enemy 04-1_321
+  - first:
+      213: 3328874958962087863
+    second: Enemy 04-1_322
+  - first:
+      213: -4378090562080973542
+    second: Enemy 04-1_323
+  - first:
+      213: 7019483754181167036
+    second: Enemy 04-1_324
+  - first:
+      213: 7573834932708767898
+    second: Enemy 04-1_325
+  - first:
+      213: 7768123483262024222
+    second: Enemy 04-1_326
+  - first:
+      213: -889427778593514556
+    second: Enemy 04-1_327
+  - first:
+      213: 152059018998998714
+    second: Enemy 04-1_328
+  - first:
+      213: 6539181240204641002
+    second: Enemy 04-1_329
+  - first:
+      213: 8574170740264673746
+    second: Enemy 04-1_330
+  - first:
+      213: 3912740377413503534
+    second: Enemy 04-1_331
+  - first:
+      213: 8664375996816231913
+    second: Enemy 04-1_332
+  - first:
+      213: -8175206790833058640
+    second: Enemy 04-1_333
+  - first:
+      213: 7769265077771533045
+    second: Enemy 04-1_334
+  - first:
+      213: -1165724801873099901
+    second: Enemy 04-1_335
+  - first:
+      213: 6396058446111108246
+    second: Enemy 04-1_336
+  - first:
+      213: -6449355704752960731
+    second: Enemy 04-1_337
+  - first:
+      213: -1125971452733645704
+    second: Enemy 04-1_338
+  - first:
+      213: 5077231991848615775
+    second: Enemy 04-1_339
+  - first:
+      213: 9026367618804323237
+    second: Enemy 04-1_340
+  - first:
+      213: -9081298620188922727
+    second: Enemy 04-1_341
+  - first:
+      213: 4850475598001364377
+    second: Enemy 04-1_342
+  - first:
+      213: -734017411246331750
+    second: Enemy 04-1_343
+  - first:
+      213: 5059774555006125420
+    second: Enemy 04-1_344
+  - first:
+      213: -5613074023927572470
+    second: Enemy 04-1_345
+  - first:
+      213: -8226284197769751547
+    second: Enemy 04-1_346
+  - first:
+      213: -7363078721618996769
+    second: Enemy 04-1_347
+  - first:
+      213: 5647275470683328199
+    second: Enemy 04-1_348
+  - first:
+      213: -8887784349667029063
+    second: Enemy 04-1_349
+  - first:
+      213: -1527941106715358600
+    second: Enemy 04-1_350
+  - first:
+      213: -2638672715543271594
+    second: Enemy 04-1_351
+  - first:
+      213: 2210916250106157251
+    second: Enemy 04-1_352
+  - first:
+      213: 8473430438763795503
+    second: Enemy 04-1_353
+  - first:
+      213: 8589746847030824740
+    second: Enemy 04-1_354
+  - first:
+      213: 9134120349394199541
+    second: Enemy 04-1_355
+  - first:
+      213: -6129514519364336518
+    second: Enemy 04-1_356
+  - first:
+      213: -4766767156384223124
+    second: Enemy 04-1_357
+  - first:
+      213: 4194496622552078855
+    second: Enemy 04-1_358
+  - first:
+      213: 2877436593805429511
+    second: Enemy 04-1_359
+  - first:
+      213: 5223985313883860522
+    second: Enemy 04-1_360
+  - first:
+      213: 8281736288466940414
+    second: Enemy 04-1_361
+  - first:
+      213: 4627301171190821525
+    second: Enemy 04-1_362
+  - first:
+      213: 9215294753158877540
+    second: Enemy 04-1_363
+  - first:
+      213: 2129231022958009763
+    second: Enemy 04-1_364
+  - first:
+      213: -4486661335386090605
+    second: Enemy 04-1_365
+  - first:
+      213: -7734543205599004601
+    second: Enemy 04-1_366
+  - first:
+      213: 2363311838846557728
+    second: Enemy 04-1_367
+  - first:
+      213: 8274471715139584302
+    second: Enemy 04-1_368
+  - first:
+      213: 2669513155980046446
+    second: Enemy 04-1_369
+  - first:
+      213: 7038163805140019051
+    second: Enemy 04-1_370
+  - first:
+      213: -2220524316844278814
+    second: Enemy 04-1_371
+  - first:
+      213: 1165516222591652706
+    second: Enemy 04-1_372
+  - first:
+      213: 8332265659959415309
+    second: Enemy 04-1_373
+  - first:
+      213: 4151015924887231566
+    second: Enemy 04-1_374
+  - first:
+      213: -7450480631946130789
+    second: Enemy 04-1_375
+  - first:
+      213: -3741481386672020353
+    second: Enemy 04-1_376
+  - first:
+      213: -1259612943834849966
+    second: Enemy 04-1_377
+  - first:
+      213: -4204646453571736237
+    second: Enemy 04-1_378
+  - first:
+      213: -4227081176676654595
+    second: Enemy 04-1_379
+  - first:
+      213: 3078229030906401764
+    second: Enemy 04-1_380
+  - first:
+      213: -266445881866883038
+    second: Enemy 04-1_381
+  - first:
+      213: 466023510183708881
+    second: Enemy 04-1_382
+  - first:
+      213: -543423306176951575
+    second: Enemy 04-1_383
+  - first:
+      213: 3940062779795565571
+    second: Enemy 04-1_384
+  - first:
+      213: 7568067991320413656
+    second: Enemy 04-1_385
+  - first:
+      213: -3395203688968150427
+    second: Enemy 04-1_386
+  - first:
+      213: -8013873143014102056
+    second: Enemy 04-1_387
+  - first:
+      213: -2954723050735904038
+    second: Enemy 04-1_388
+  - first:
+      213: 1573630443846001761
+    second: Enemy 04-1_389
+  - first:
+      213: 199588016272451890
+    second: Enemy 04-1_390
+  - first:
+      213: -5356625942432062147
+    second: Enemy 04-1_391
+  - first:
+      213: 5245026368178259977
+    second: Enemy 04-1_392
+  - first:
+      213: 2774649606021136547
+    second: Enemy 04-1_393
+  - first:
+      213: -4855667304038096478
+    second: Enemy 04-1_394
+  - first:
+      213: 8467890477735871953
+    second: Enemy 04-1_395
+  - first:
+      213: -7310306994275001864
+    second: Enemy 04-1_396
+  - first:
+      213: 8113397212936785951
+    second: Enemy 04-1_397
+  - first:
+      213: -3438110372329097122
+    second: Enemy 04-1_398
+  - first:
+      213: 3813627994968043728
+    second: Enemy 04-1_399
+  - first:
+      213: -6854201084966785146
+    second: Enemy 04-1_400
+  - first:
+      213: -4677643322248875904
+    second: Enemy 04-1_401
+  - first:
+      213: 8740240723319654300
+    second: Enemy 04-1_402
+  - first:
+      213: -4013862323136865176
+    second: Enemy 04-1_403
+  - first:
+      213: -4472480964281240964
+    second: Enemy 04-1_404
+  - first:
+      213: 3810794811370743629
+    second: Enemy 04-1_405
+  - first:
+      213: 8965741149139495927
+    second: Enemy 04-1_406
+  - first:
+      213: 7578814093249195466
+    second: Enemy 04-1_407
+  - first:
+      213: -8991200829457795381
+    second: Enemy 04-1_408
+  - first:
+      213: 3999695918166086723
+    second: Enemy 04-1_409
+  - first:
+      213: 3414067832272684911
+    second: Enemy 04-1_410
+  - first:
+      213: 8770391883077958440
+    second: Enemy 04-1_411
+  - first:
+      213: 3164633727567994117
+    second: Enemy 04-1_412
+  - first:
+      213: -3344355641289648803
+    second: Enemy 04-1_413
+  - first:
+      213: -1072833806673253439
+    second: Enemy 04-1_414
+  - first:
+      213: -7398293149120161163
+    second: Enemy 04-1_415
+  - first:
+      213: 2360785732135713907
+    second: Enemy 04-1_416
+  - first:
+      213: 9170729883052967663
+    second: Enemy 04-1_417
+  - first:
+      213: -1842103575994668327
+    second: Enemy 04-1_418
+  - first:
+      213: -8967160392272467398
+    second: Enemy 04-1_419
+  - first:
+      213: -1729577910820783412
+    second: Enemy 04-1_420
+  - first:
+      213: 1365559432799178972
+    second: Enemy 04-1_421
+  - first:
+      213: 6129900197554989044
+    second: Enemy 04-1_422
+  - first:
+      213: -5887455851034972523
+    second: Enemy 04-1_423
+  - first:
+      213: 8846841931811694122
+    second: Enemy 04-1_424
+  - first:
+      213: -1138778617637114798
+    second: Enemy 04-1_425
+  - first:
+      213: -4577264775592657172
+    second: Enemy 04-1_426
+  - first:
+      213: -3253016041352793326
+    second: Enemy 04-1_427
+  - first:
+      213: 6908633747638136705
+    second: Enemy 04-1_428
+  - first:
+      213: -7660417211288077716
+    second: Enemy 04-1_429
+  - first:
+      213: -3660133537605927834
+    second: Enemy 04-1_430
+  - first:
+      213: -6968654736734177322
+    second: Enemy 04-1_431
+  - first:
+      213: -7306991326729990945
+    second: Enemy 04-1_432
+  - first:
+      213: -5536135194543290296
+    second: Enemy 04-1_433
+  - first:
+      213: 1885222311111026010
+    second: Enemy 04-1_434
+  - first:
+      213: 4114435417422163221
+    second: Enemy 04-1_435
+  - first:
+      213: -5222534443453486812
+    second: Enemy 04-1_436
+  - first:
+      213: 445418192360446000
+    second: Enemy 04-1_437
+  - first:
+      213: -3162965574033424135
+    second: Enemy 04-1_438
+  - first:
+      213: 953174394504511888
+    second: Enemy 04-1_439
+  - first:
+      213: 6765338320161640413
+    second: Enemy 04-1_440
+  - first:
+      213: -3800258783842873028
+    second: Enemy 04-1_441
+  - first:
+      213: 7460872925056351796
+    second: Enemy 04-1_442
+  - first:
+      213: -2044376789917173474
+    second: Enemy 04-1_443
+  - first:
+      213: -94369899000192867
+    second: Enemy 04-1_444
+  - first:
+      213: -2408804282750033932
+    second: Enemy 04-1_445
+  - first:
+      213: -8882747212685255337
+    second: Enemy 04-1_446
+  - first:
+      213: -6165082361775391790
+    second: Enemy 04-1_447
+  - first:
+      213: -4548564783823624177
+    second: Enemy 04-1_448
+  - first:
+      213: 4161352631316110071
+    second: Enemy 04-1_449
+  - first:
+      213: 5617275300978586481
+    second: Enemy 04-1_450
+  - first:
+      213: -2999304242180190891
+    second: Enemy 04-1_451
+  - first:
+      213: -2055123738364641150
+    second: Enemy 04-1_452
+  - first:
+      213: -1698440380551335637
+    second: Enemy 04-1_453
+  - first:
+      213: -7415456724204845322
+    second: Enemy 04-1_454
+  - first:
+      213: 7397250588142799001
+    second: Enemy 04-1_455
+  - first:
+      213: -821800738805089078
+    second: Enemy 04-1_456
+  - first:
+      213: -9221103773860897649
+    second: Enemy 04-1_457
+  - first:
+      213: 4336715539806968174
+    second: Enemy 04-1_458
+  - first:
+      213: -6523147888008802731
+    second: Enemy 04-1_459
+  - first:
+      213: -5421616487419754320
+    second: Enemy 04-1_460
+  - first:
+      213: -3290353321826029727
+    second: Enemy 04-1_461
+  - first:
+      213: 3778307941043348529
+    second: Enemy 04-1_462
+  - first:
+      213: -8229808180641967317
+    second: Enemy 04-1_463
+  - first:
+      213: 6013602253266574094
+    second: Enemy 04-1_464
+  - first:
+      213: -5503372992701949255
+    second: Enemy 04-1_465
+  - first:
+      213: -6897736237011267504
+    second: Enemy 04-1_466
+  - first:
+      213: 5358408474546082375
+    second: Enemy 04-1_467
+  - first:
+      213: -3715882945820000323
+    second: Enemy 04-1_468
+  - first:
+      213: -4788311132183469464
+    second: Enemy 04-1_469
+  - first:
+      213: -3942133054574288335
+    second: Enemy 04-1_470
+  - first:
+      213: -3999979044824152084
+    second: Enemy 04-1_471
+  - first:
+      213: 2558047929004604574
+    second: Enemy 04-1_472
+  - first:
+      213: -2861079432778435250
+    second: Enemy 04-1_473
+  - first:
+      213: 6485669881880415969
+    second: Enemy 04-1_474
+  - first:
+      213: 7395174312264808710
+    second: Enemy 04-1_475
+  - first:
+      213: 4073802244850490877
+    second: Enemy 04-1_476
+  - first:
+      213: 2447324494918442896
+    second: Enemy 04-1_477
+  - first:
+      213: -1337308143679825444
+    second: Enemy 04-1_478
+  - first:
+      213: -235504326431445913
+    second: Enemy 04-1_479
+  - first:
+      213: 6099600744094142420
+    second: Enemy 04-1_480
+  - first:
+      213: 7494081887327358347
+    second: Enemy 04-1_481
+  - first:
+      213: -3935004209287489018
+    second: Enemy 04-1_482
+  - first:
+      213: 1122245370175601659
+    second: Enemy 04-1_483
+  - first:
+      213: 5942174791701737100
+    second: Enemy 04-1_484
+  - first:
+      213: -2205934357641352608
+    second: Enemy 04-1_485
+  - first:
+      213: -1974350680441577118
+    second: Enemy 04-1_486
+  - first:
+      213: -4578320569705466750
+    second: Enemy 04-1_487
+  - first:
+      213: -30066716367179745
+    second: Enemy 04-1_488
+  - first:
+      213: 1173748043222643677
+    second: Enemy 04-1_489
+  - first:
+      213: 7791594065491621333
+    second: Enemy 04-1_490
+  - first:
+      213: -6428525212234454213
+    second: Enemy 04-1_491
+  - first:
+      213: 3261765526058064860
+    second: Enemy 04-1_492
+  - first:
+      213: -2138958957938390116
+    second: Enemy 04-1_493
+  - first:
+      213: -2563564651250974710
+    second: Enemy 04-1_494
+  - first:
+      213: -3746550006716598339
+    second: Enemy 04-1_495
+  - first:
+      213: 2769689317145887769
+    second: Enemy 04-1_496
+  - first:
+      213: -7349917012670747560
+    second: Enemy 04-1_497
+  - first:
+      213: -6529158010361644737
+    second: Enemy 04-1_498
+  - first:
+      213: 5457647274063627214
+    second: Enemy 04-1_499
+  - first:
+      213: -629202135647991655
+    second: Enemy 04-1_500
+  - first:
+      213: 8670575749938528720
+    second: Enemy 04-1_501
+  - first:
+      213: -3366728914136154331
+    second: Enemy 04-1_502
+  - first:
+      213: 4375848523745205430
+    second: Enemy 04-1_503
+  - first:
+      213: -1961908952684609169
+    second: Enemy 04-1_504
+  - first:
+      213: 4646798321734561879
+    second: Enemy 04-1_505
+  - first:
+      213: 2881549873257238451
+    second: Enemy 04-1_506
+  - first:
+      213: -8699290105427934451
+    second: Enemy 04-1_507
+  - first:
+      213: 7473089545550679369
+    second: Enemy 04-1_508
+  - first:
+      213: -2165447985727247816
+    second: Enemy 04-1_509
+  - first:
+      213: 3244300450004606248
+    second: Enemy 04-1_510
+  - first:
+      213: -5542818026392036401
+    second: Enemy 04-1_511
+  - first:
+      213: 5151383715622041010
+    second: Enemy 04-1_512
+  - first:
+      213: -3265543901571506968
+    second: Enemy 04-1_513
+  - first:
+      213: 5520743139076444741
+    second: Enemy 04-1_514
+  - first:
+      213: 3133856943081926789
+    second: Enemy 04-1_515
+  - first:
+      213: -3540170058115145659
+    second: Enemy 04-1_516
+  - first:
+      213: 248972988672459018
+    second: Enemy 04-1_517
+  - first:
+      213: 8630881770493403127
+    second: Enemy 04-1_518
+  - first:
+      213: -6542601345862077425
+    second: Enemy 04-1_519
+  - first:
+      213: 7688885805010784327
+    second: Enemy 04-1_520
+  - first:
+      213: 3050810416518127460
+    second: Enemy 04-1_521
+  - first:
+      213: -5563428024813865561
+    second: Enemy 04-1_522
+  - first:
+      213: 5944539021523765275
+    second: Enemy 04-1_523
+  - first:
+      213: 1910820911427187754
+    second: Enemy 04-1_524
+  - first:
+      213: 1008364279424139680
+    second: Enemy 04-1_525
+  - first:
+      213: 1757614617788570840
+    second: Enemy 04-1_526
+  - first:
+      213: -1694211386646942747
+    second: Enemy 04-1_527
+  - first:
+      213: -2853810020590764159
+    second: Enemy 04-1_528
+  - first:
+      213: -7447048517465907316
+    second: Enemy 04-1_529
+  - first:
+      213: -213600444030586445
+    second: Enemy 04-1_530
+  - first:
+      213: 6432611095349037105
+    second: Enemy 04-1_531
+  - first:
+      213: -8230805688452094733
+    second: Enemy 04-1_532
+  - first:
+      213: -6980618568540498402
+    second: Enemy 04-1_533
+  - first:
+      213: 4128331282332846410
+    second: Enemy 04-1_534
+  - first:
+      213: -9005633932579823093
+    second: Enemy 04-1_535
+  - first:
+      213: 4184444544061720610
+    second: Enemy 04-1_536
+  - first:
+      213: -7622983004668160080
+    second: Enemy 04-1_537
+  - first:
+      213: 8320971048626893169
+    second: Enemy 04-1_538
+  - first:
+      213: 5731028654165679233
+    second: Enemy 04-1_539
+  - first:
+      213: -7925375690192890767
+    second: Enemy 04-1_540
+  - first:
+      213: 4671065032226926949
+    second: Enemy 04-1_541
+  - first:
+      213: 5022272386528529192
+    second: Enemy 04-1_542
+  - first:
+      213: -698861133799410236
+    second: Enemy 04-1_543
+  - first:
+      213: -5075208976897932990
+    second: Enemy 04-1_544
+  - first:
+      213: -8934799649700150286
+    second: Enemy 04-1_545
+  - first:
+      213: -8977453908738262259
+    second: Enemy 04-1_546
+  - first:
+      213: 4074289947872437755
+    second: Enemy 04-1_547
+  - first:
+      213: -1264880959450756862
+    second: Enemy 04-1_548
+  - first:
+      213: 2562087952539175048
+    second: Enemy 04-1_549
+  - first:
+      213: -3578460060209930480
+    second: Enemy 04-1_550
+  - first:
+      213: 2066064139735895328
+    second: Enemy 04-1_551
+  - first:
+      213: 3889026798849715677
+    second: Enemy 04-1_552
+  - first:
+      213: -8351788034839512264
+    second: Enemy 04-1_553
+  - first:
+      213: 3411377090988836400
+    second: Enemy 04-1_554
+  - first:
+      213: -5893839955559034138
+    second: Enemy 04-1_555
+  - first:
+      213: -868087169460232351
+    second: Enemy 04-1_556
+  - first:
+      213: 8594436568625578115
+    second: Enemy 04-1_557
+  - first:
+      213: -4146485580951748387
+    second: Enemy 04-1_558
+  - first:
+      213: -6807011918340401476
+    second: Enemy 04-1_559
+  - first:
+      213: -2227643934366480226
+    second: Enemy 04-1_560
+  - first:
+      213: -4024932794874410032
+    second: Enemy 04-1_561
+  - first:
+      213: -754787563233354777
+    second: Enemy 04-1_562
+  - first:
+      213: 6769245801829814925
+    second: Enemy 04-1_563
+  - first:
+      213: -2035241476696561746
+    second: Enemy 04-1_564
+  - first:
+      213: -3430342470114115123
+    second: Enemy 04-1_565
+  - first:
+      213: 7457504132092682547
+    second: Enemy 04-1_566
+  - first:
+      213: 5453790198105038355
+    second: Enemy 04-1_567
+  - first:
+      213: -8542252737562960751
+    second: Enemy 04-1_568
+  - first:
+      213: -332943723986717724
+    second: Enemy 04-1_569
+  - first:
+      213: -8461626815167661320
+    second: Enemy 04-1_570
+  - first:
+      213: 1724313137509452241
+    second: Enemy 04-1_571
+  - first:
+      213: 5082512981160718140
+    second: Enemy 04-1_572
+  - first:
+      213: -4062912381072245777
+    second: Enemy 04-1_573
+  - first:
+      213: -881174071252147014
+    second: Enemy 04-1_574
+  - first:
+      213: 1400175974475314516
+    second: Enemy 04-1_575
+  - first:
+      213: -5508719053890297829
+    second: Enemy 04-1_576
+  - first:
+      213: -2068338909445721871
+    second: Enemy 04-1_577
+  - first:
+      213: 1380801603263414702
+    second: Enemy 04-1_578
+  - first:
+      213: 1647476366466223921
+    second: Enemy 04-1_579
+  - first:
+      213: 2403315168968503993
+    second: Enemy 04-1_580
+  - first:
+      213: 1083723225293500756
+    second: Enemy 04-1_581
+  - first:
+      213: 8176468504475625585
+    second: Enemy 04-1_582
+  - first:
+      213: -2878448555498149722
+    second: Enemy 04-1_583
+  - first:
+      213: 7932720920641355680
+    second: Enemy 04-1_584
+  - first:
+      213: -2712203394436949381
+    second: Enemy 04-1_585
+  - first:
+      213: -3749735836074516245
+    second: Enemy 04-1_586
+  - first:
+      213: 5162242920184954419
+    second: Enemy 04-1_587
+  - first:
+      213: 8478908422751623163
+    second: Enemy 04-1_588
+  - first:
+      213: 5360172672993017246
+    second: Enemy 04-1_589
+  - first:
+      213: 4248485674397499936
+    second: Enemy 04-1_590
+  - first:
+      213: 4955925608262256379
+    second: Enemy 04-1_591
+  - first:
+      213: -8183415698242634977
+    second: Enemy 04-1_592
+  - first:
+      213: 8781151352078670346
+    second: Enemy 04-1_593
+  - first:
+      213: 26439443349691911
+    second: Enemy 04-1_594
+  - first:
+      213: -7618267571916537818
+    second: Enemy 04-1_595
+  - first:
+      213: 2559843301919551892
+    second: Enemy 04-1_596
+  - first:
+      213: 6392237460850919635
+    second: Enemy 04-1_597
+  - first:
+      213: -2277170906234271504
+    second: Enemy 04-1_598
+  - first:
+      213: 1687123454665866713
+    second: Enemy 04-1_599
+  - first:
+      213: 6399012362816241234
+    second: Enemy 04-1_600
+  - first:
+      213: -5381743003276144865
+    second: Enemy 04-1_601
+  - first:
+      213: -7951331963382718296
+    second: Enemy 04-1_602
+  - first:
+      213: -2353303140731582102
+    second: Enemy 04-1_603
+  - first:
+      213: -1711091534446821358
+    second: Enemy 04-1_604
+  - first:
+      213: -2319850914421033968
+    second: Enemy 04-1_605
+  - first:
+      213: -6612786268854397514
+    second: Enemy 04-1_606
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy 04-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c440499bc507d0800000000000000
+      internalID: -2952730121602807721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 04-1_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 95
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31a09694392f5800800000000000000
+      internalID: 603246180932034874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 04-1_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 95
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8193b98cc34be58b0800000000000000
+      internalID: -5161489949763356392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 04-1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa78c48e24c2b680800000000000000
+      internalID: -8740708222697440525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 04-1_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 62
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee3f887004beb50800000000000000
+      internalID: 6623458078085082728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 04-1_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 62
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f0213d7568b8d0800000000000000
+      internalID: -2830400777432795297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 04-1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f7543fb2c7cda90800000000000000
+      internalID: -7287813568785449157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 04-1_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 29
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ffdcc4853b638d0800000000000000
+      internalID: -2866906920947679445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 04-1_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 29
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645703701246d8440800000000000000
+      internalID: 4939714459312616774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
